@@ -26,7 +26,7 @@ jobs:
 
     - name: Scrape cars data
       run: |
-        python -m ./scraper.py
+        python ./scraper.py
 
     - name: Clear previous files
       run: |
