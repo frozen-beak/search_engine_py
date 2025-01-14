@@ -1,0 +1,10 @@
+
+audi’s new rs7 sportback performance is their fastest, most powerful rs7 to date. along with more power and torque, audi have fitted a new self-locking center differential which can distribute engine power to the rear axle at ratio of 40:60, and when slip is detected send torque to the axle with better traction.
+
+
+engine: 4.0l v8 twin turbo
+weight: 2,065 kg / 4,553 lbs
+power: 463 kw / 621 hp / 630 ps
+0-62 mph: 3.4 seconds
+torque: 850 nm / 627 lb-ft
+top speed: 304 kph / 189 mph

@@ -1,0 +1,13 @@
+
+flow-enhanced design with a drag coefficient of 0.25; a powerful, all-electric e-tron quattro drive with up to 370 kw – audi is presenting the audi e-tron quattro concept at the international motor show (iaa) 2015 in frankfurt. the car is the company’s statement about the future of electric mobility: it is sporty, efficient and suitable for everyday use.
+“audi will present an all-electric, luxury-class sport suv in early 2018. the audi e‑tron quattro concept provides a concrete foretaste of this,” says prof. dr. ulrich hackenberg, member of the audi board of management for technical development. “it combines driving pleasure with great range, an expressive design and excellent comfort.”
+the audi e-tron quattro concept uses the power of three electric motors: one electric motor drives the front axle, the two others act on the rear axle. total output is 320 kw. the driver can even mobilize 370 kw and over 800 nm / 590.0 lb-ft) of torque temporarily while boosting. the concept study thus performs like a sports car. when the driver floors the right pedal, the audi e-tron quattro concept sprints from a standstill to 100 km/h (62.1 mph) in 4.6 seconds and quickly reaches the electronically governed top speed of 210 km/h (130.5 mph).
+source: audi press release
+
+
+motor: 3x electric
+weight: –
+power: 370 kw / 496 hp / 503 ps
+0-62 mph: 4.6 seconds
+torque: 800 nm / 590 lb-ft
+top speed: 210 kph / 130 mph

@@ -1,0 +1,13 @@
+
+the 2002 porsche 911 gt2 takes its place at the top of the current porsche model range as the most powerful and fastest member of the 911 family. the turbocharged porsche 911 gt2 is 10-percent more powerful and seven-percent lighter than the 911 turbo on which it is based, and its chassis modifications come directly from porsche’s road racing experience.
+the biggest weight savings over the 911 turbo comes from making the gt2 rear-wheel drive (the 911 turbo is all-wheel drive). porsche tests all its models at the world-famous nurburgring racetrack in germany, where the porsche 911 gt2 shattered all lap time records for street-legal production cars — including a few set by other porsches.
+the porsche 911 gt2 engine, a modified version of the 3.6-liter twin-turbo six-cylinder “boxer” engine from the 911 turbo, produces 456 horsepower (sae) at 5,700 rpm compared to 415 horsepower at 6,000 rpm in the 911 turbo. the power increase and approximately 220-pound total weight reduction give the porsche 911 gt2 a power-to-weight ratio of 6.9 lb. per horsepower (4.23 kg per kw), resulting in even more astounding performance than the 911 turbo. the 911 gt2 is capable of accelerating from zero-to-62 mph (zero-to-100 km/h) in about four seconds and can achieve a top track speed of 195 mph (315 km/h).
+source: porsche press release
+
+
+engine: 3.6l flat 6 twin turbo
+weight: 1,440 kg / 3,174 lbs
+power: 340 kw / 456 hp / 462 ps
+0-62 mph: 4.1 seconds
+torque: 620 nm / 457 lb-ft
+top speed: 315 kph / 195 mph

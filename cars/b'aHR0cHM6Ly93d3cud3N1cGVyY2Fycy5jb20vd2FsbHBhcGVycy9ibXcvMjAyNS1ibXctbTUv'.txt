@@ -1,0 +1,11 @@
+
+the all-new bmw m5 goes hybrid, keeps the v8, but gains a lot of weight. this is the seventh-generation m5 and the first to be electrified in the model’s history. bmw haven’t gone full electric yet, keeping the 4.4l twin turbo v8 engine and coupling it with a 194 hp, 207 lb-ft e-motor integrated into the eight-speed transmission and fed by a 22.1 kwh battery pack. they combine to generate 717 hp and 738 lb-ft of torque. 
+unfortunately, the new g90 generation m5 has gained a bit weight, adding 570 kg over the previous generation. that actually gives the new m5 a worse 294 hp/ton power to weight ratio, which was 312 hp/ton for the previous m5 and 330 hp/ton for the competition version. the result is a slower 0 to 62 mph sprint time of 3.5 seconds.
+
+
+engine: 4.4l v8 twin turbo hybrid
+weight: 2,435 kg / 5,368 lbs
+power: 535 kw / 717 hp / 727 ps
+0-62 mph: 3.5 seconds
+torque: 1,000 nm / 738 lb-ft
+top speed: 304 kph / 189 mph

@@ -1,0 +1,13 @@
+
+exactly 110 years after ferdinand porsche developed the world’s first car with hybrid drive, porsche is once again taking up this visionary drive concept in production-based gt racing: during the geneva motor show, a porsche 911 gt3 r with innovative hybrid drive is making its debut, opening up a new chapter in the history of porsche with more than 20,000 wins in 45 years scored by the extremely successful porsche 911 in racing trim.
+the innovative hybrid technology featured in the car has been developed especially for racing, standing out significantly in its configuration and components from conventional hybrid systems. in this case, electrical front axle drive with two electric motors developing 60 kw each supplements the 480-bhp four-litre flat-six at the rear of the 911 gt3 r hybrid. a further significant point is that instead of the usual batteries in a hybrid road car, an electrical flywheel power generator fitted in the interior next to the driver delivers energy to the electric motors.
+the flywheel generator itself is an electric motor with its rotor spinning at speeds of up to 40,000 rpm, storing energy mechanically as rotation energy. the flywheel generator is charged whenever the driver applies the brakes, with the two electric motors reversing their function on the front axle and acting themselves as generators. then, whenever necessary, that is when accelerating out of a bend or when overtaking, the driver is able to call up extra energy from the charged flywheel generator, the flywheel being slowed down electromagnetically in the generator mode and thus supplying up to 120 kw to the two electric motors at the front from its kinetic energy. this additional power is available to the driver after each charge process for approximately 6 – 8 seconds.
+source: porsche press release
+
+
+engine: 4.0l flat 6 hybrid
+weight: –
+power: 477 kw / 640 hp / 649 ps
+0-62 mph: –
+torque: –
+top speed: –

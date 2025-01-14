@@ -1,0 +1,11 @@
+
+porsche’s all-electric racing car concept the mission r, previews new racer and possible cayman successor. porsche states the main goal of the mission r concept is the creation of a new one-make racing series that would operate in a similar fashion to the 911 carrera cup. perhaps the more interesting aspect to this is the all-electric replacement of the 718 cayman and boxster due in the near future, is this a glimpse into those future models.
+running on a 900 volt electrical system with an 80 kwh battery and two motors, the mission r outputs a constant 670 hp. a special qualifying mode will tap into the full potential the powertrain unleashing 1,072 hp, allowing a 0-62 mph acceleration time of 2.5 seconds and a top speed of 186 mph.
+
+
+motor: 2x electric @ 80 kwh
+weight: 1,500 kg / 3,307 lbs
+power: 500 kw / 670 hp / 680 ps
+0-62 mph: under 2.5 seconds
+torque: –
+top speed: 300 kph / 186 mph

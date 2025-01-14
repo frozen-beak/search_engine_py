@@ -1,0 +1,10 @@
+
+porsche is now celebrating 75 years since their first production model the 365 with a 357 speedster concept car. it follows on from the 357 concept shown off at the start of 2023 with one key difference, well two. firstly this is a single seater, open-top car with a tonneau cover over the passenger side of the car. secondly, the 4.0l flat 6 engine has been replaced with two electric motors, one positioned on the front axle and the other on the rear.
+
+
+motor: 2x electric @ 65 kwh
+weight: –
+power: –
+0-62 mph: –
+torque: –
+top speed: –

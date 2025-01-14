@@ -1,0 +1,10 @@
+
+taking it’s place in history as bmw’s first ever turbocharged production car, the 2002 turbo earned a bad reputation during it’s launch. that reputation was based on the severe turbo lag that made handling tricky, especially if the boost hit during cornering. unlike today’s modern turbocharged packages, the 2002 turbo needed a good 4,000 rpm for the turbocharger to spool up enough to boost engine performance. the 2.0l unit struggled below this rpm with low power output and a low compression ratio that was required to prevent nock. once the turbocharger was helping, things improved dramatically with peak power rated at 170 hp and 179 lb-ft of torque. it remains a prime example of early turbocharged engines that had a very different character to anything else.
+
+
+engine: 2.0l inline 4 turbo
+weight: 1,080 kg / 2,381 lbs
+power: 127 kw / 170 hp / 173 ps
+0-60 mph: 7.5 seconds
+torque: 241 nm / 178 lb-ft
+top speed: 209 kph / 130 mph

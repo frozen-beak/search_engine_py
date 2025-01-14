@@ -1,10 +1,1 @@
 
-a 720 hp italian supercar with good looks, active aero and plenty of performance, this is the pagani huayra. the amg sourced 6.0l v12 engine is a twin turbocharged unit that develops 720 hp and 1,000 nm of torque in the huayra. the top speed has been quoted by pagani as surpassing 200 mph with ease, going on to high of 232 mph whilst being able to accelerate from 0-62 mph in only 3.3 seconds. all this speed is controlled by wide tires and active aerodynamics which consist of flaps the rise up from the bodywork on all four corners of the car. these flaps are computer controlled and raise and lower as needed independently to each other in order to optimise the airflow over the car. the overall effect is improved cornering, braking and road holding.
-
-
-engine: 6.0l v12 twin turbo
-weight: 1,440 kg / 3,175 lbs
-power: 537 kw / 720 hp / 730 ps
-0-62 mph: 3.3 seconds
-torque: 1,000 nm / 738 lb-ft
-top speed: 374 kph / 232 mph

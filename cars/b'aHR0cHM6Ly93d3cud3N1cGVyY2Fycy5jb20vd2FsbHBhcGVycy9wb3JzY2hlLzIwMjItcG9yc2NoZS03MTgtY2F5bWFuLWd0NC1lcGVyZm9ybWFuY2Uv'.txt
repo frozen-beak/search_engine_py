@@ -1,0 +1,11 @@
+
+a test bed for porsche’s electric powertrain development, the cayman gt4 eperformance previews the future of porsche’s customer gt racing program. after the mission r concept from 2021 gave us a glimpse of the possible future styling of a new electric cayman, this now hints at what could be install on the powertrain side of things.
+utilising a twin motor setup with all-wheel drive, the eperformance is capable of 1,073 hp while configured in the all-out qualifying mode. that peak power drops down to 603 hp in racing mode whilst being fed by an 82 kwh battery that is split into three sections, one up front, one behind the driver and one in the passenger footwell. it is based on a 900-volt electrical architecture and can handle up to a 350 kw rate of charging.
+
+
+motor: 2x electric @ 82 kwh
+weight: 1,542 kg / 3,400 lbs
+power: 800 kw / 1,073 hp / 1,088 ps
+0-62 mph: –
+torque: –
+top speed: –

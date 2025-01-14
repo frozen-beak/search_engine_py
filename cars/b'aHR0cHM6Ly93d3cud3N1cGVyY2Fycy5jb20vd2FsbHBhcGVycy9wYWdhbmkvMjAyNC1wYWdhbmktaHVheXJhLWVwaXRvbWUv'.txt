@@ -1,10 +1,1 @@
 
-pagani has revived the huayra with a special one-off that is the first to feature a manual gearbox. commissioned by a client who wanted the peak huayra, the epitome ditches the automatic transmission and replaces it with a seven-speed manual gearbox provided by xtrac. the amg sourced 6.0l twin turbo v12 engine has been tuned for 852 hp with 811 lb-ft of torque, propelling the huayra epitome to a top speed of 217 mph. 
-
-
-engine: 6.0l v12 twin turbo
-weight: 1,060 kg / 2,337 lbs
-power: 635 kw / 852 hp / 864 ps
-0-62 mph: –
-torque: 1,100 nm / 811 lb-ft
-top speed: 350 kph / 217 mph

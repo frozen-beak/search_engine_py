@@ -1,0 +1,11 @@
+
+new audi rs4 drops the v8 and returns to turbocharged power, delivering 170 nm of torque more than the previous generation. peak torque is available between 1,900 rpm to 5,000 rpm, providing a nice fat torque curve for usable everyday driveability. top speed is limited to 155 mph (250 kph), but is lifted to 174 mph (280 kph) with the optional rs dynamic package. to compliment the quattro all-wheel drive is an optional sport rear differential and eight-speed tiptronic automatic transmission.
+“the audi rs4 avant is our rs icon with an incomparable history,” commented stephan winkelmann, managing director of audi sport gmbh. “in common with all our rs models, it blends immense power output with superlative everyday utility. in china, the audi rs4 will provide fresh impetus for growth as the only high-performance avant in its segment.”
+
+
+engine: 2.9l v6 twin turbo
+weight: 1,790 kg / 3,946 lbs
+power: 331 kw / 444 hp / 450 ps
+0-62 mph: 4.1 seconds
+torque: 600 nm / 442 lb-ft
+top speed: 280 kph / 174 mph

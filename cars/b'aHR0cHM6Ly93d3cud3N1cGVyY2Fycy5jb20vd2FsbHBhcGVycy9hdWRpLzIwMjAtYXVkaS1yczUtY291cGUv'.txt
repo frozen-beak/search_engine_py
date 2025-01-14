@@ -1,0 +1,12 @@
+
+the audi rs5 has received some minor visual updates that bring it more inline with other rs models such as the rs6 avant and rs7 sportback. this tweaked styling retains the quintessential look of the audi a5, with the pronounced wave like shoulder line remaining. the front fascia has been given some minor changes and the wheels are of a different design, yet most will struggle to notice any differences to the 2018 model.
+remaining the same in the 2020 rs5 is the 2.9l twin turbocharged v6 engine, delivering the same output of 450 ps (331 kw) of power and 443 lb-ft (600 nm) of torque. 0-62 mph acceleration is all done in only 3.9 seconds, and the top speed can be increased to 174 mph, up from the usual 155 mph limit. audi’s quattro permanent all-wheel drive is present as always with a 40:60 power distribution between the front and rear axle. the center differential can increase power delivery up to 70% for the front and 85% for the rear when necessary. this is coupled with an eight-speed tiptronic transmission featuring enlarged aluminum shift paddles for easier gear selection.
+“our rs5 models are highly dynamic all-rounders,” says oliver hoffmann, managing director of audi sport gmbh. “the quattro permanent all-wheel drive grants the rs5 models that decisive extra traction, dynamism, and stability – strengths that audi put on the road 40 years ago with the first quattro and has continually optimized. the handling is made even more spontaneous with the optional sport differential at the rear axle, which distributes the torque actively between the wheels.”
+
+
+engine: 2.9l v6 twin turbo
+weight: 1,655 kg / 3,648 lbs
+power: 331 kw / 444 hp / 450 ps
+0-62 mph: 3.9 seconds
+torque: 600 nm / 443 lb-ft
+top speed: 280 kph / 174 mph

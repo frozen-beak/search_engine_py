@@ -1,0 +1,10 @@
+
+bugatti’s new bespoke customisation program “sur mesure” has produced its first creation, the grand prix edition of the chiron pur sport. the new program will allow bugatti customers the chance of being part of designing a unique one-off version of an existing bugatti supercar. this first example was inspired by the type 51 racing car that won the 1931 french grand prix driven by louis chiron and achille varzi.
+
+
+engine: 8.0l w16 quad turbo
+weight: 1,945 kg / 4,289 lbs
+power: 1,103 kw / 1,479 hp / 1,500 ps
+0-62 mph: under 2.5 seconds
+torque: 1,600 nm / 1,180 lb-ft
+top speed: 350 kph / 217 mph

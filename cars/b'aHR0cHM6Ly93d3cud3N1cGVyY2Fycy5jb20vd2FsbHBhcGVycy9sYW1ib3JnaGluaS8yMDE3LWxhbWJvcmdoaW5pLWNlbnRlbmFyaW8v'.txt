@@ -1,0 +1,12 @@
+
+a very limited edition car, designed from the lamborghini aventador to commemorate ferruccio lamborghini’s 100th birthday. with only 20 to be made, the centenario supercar is a very desirable lamborghini, set to take its place amongst the hall of fame of lamborghini’s. all centenario’s have been sold before the cars reveal at the 2016 geneva motor show, with collectors and lamborghini enthusiasts from around the world eager to claim their piece of history.
+boasting a power to weight ratio of 1.97 kg (4.34 lb) per horsepower, the 6.5l v12 has been tuned to produce 759 hp, marking this as the most powerful lamborghini to date. the visuals of the car are stunning with the designers using a ‘form follows function’ mentality to free themselves from regular constraints of car design. the resulting form is very aggressive with priority given to the technological and aerodynamic aspects of the car and the aesthetics being a result of that.
+“the centenario is a car that perfectly combines tradition and innovation. it looks to the future while honouring the legend that is ferruccio lamborghini,” says automobili lamborghini president and ceo stephan winkelmann. “the centenario is an opportunity for our designers and engineers to transcend some of the constraints of series car production to achieve an incomparable result: the centenario has immediately proved itself as a desirable collectors’ car, while demonstrating new lamborghini technologies and outstanding performance. it is the most fitting tribute to ferruccio lamborghini in his centenary year: a man who created an exceptional brand, believed that anything was possible, and produced extraordinary, iconic cars. the centenario is a super sports car for ferruccio lamborghini and the future he and we believe in today.”
+
+
+engine: v12
+weight: 1,520 kg / 3,351 lbs
+power: 566 kw / 759 hp / 770 ps
+0-62 mph: 2.8 seconds
+torque: 560 nm / 413 lb-ft
+top speed: 350+ kph / 218+ mph

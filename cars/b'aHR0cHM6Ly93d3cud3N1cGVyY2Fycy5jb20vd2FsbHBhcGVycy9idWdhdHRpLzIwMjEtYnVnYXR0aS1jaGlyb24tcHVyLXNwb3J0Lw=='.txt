@@ -1,0 +1,10 @@
+
+bugatti has revealed the chiron pur sport with a focus on a lightened, more sporty hypercar that sacrifices top speed for better handling. overall 50 kilograms have been shaved from the chiron’s kerb weight, with the use of new lightweight components, materials and magnesium wheels. aerodynamic changes have also been made to focus more on downforce, with the addition of a 1.9 meter wide rear wing. that wing forgoes the hydraulic componentry of the chiron’s adaptable spoiler, and works in tandem with the revised rear diffuser and front splitter to improve slow speed downforce.
+
+
+engine: 8.0l w16 quad turbo
+weight: 1,945 kg / 4,289 lbs
+power: 1,103 kw / 1,479 hp / 1,500 ps
+0-62 mph: under 2.5 seconds
+torque: 1,600 nm / 1,180 lb-ft
+top speed: 350 kph / 217 mph

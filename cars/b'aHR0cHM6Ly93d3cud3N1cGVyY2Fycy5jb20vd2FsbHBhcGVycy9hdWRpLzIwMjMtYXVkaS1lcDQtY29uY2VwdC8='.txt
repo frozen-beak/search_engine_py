@@ -1,0 +1,10 @@
+
+students have electrified an iconic classic car to celebrate the 150th anniversary of audis training site in neckarsulm. called the ep4, this concept is based off a 1971 nsu prinz 4, a car that was resurrected for the occasion. where there was once a 30 hp two-cylinder gasoline engine now resides a 236 hp electric motor taken from a 2020 audi e-tron and is fed by a battery from the plug-in hybrid audi q7 tfsi e quattro. the motor is situated on the rear axle (where the original motor resided) and the battery pack sits under the front hood, where the nsu prinz once had its fuel tank.
+
+
+motor: electric
+weight: –
+power: 176 kw / 236 hp / 240 ps
+0-62 mph: –
+torque: –
+top speed: –

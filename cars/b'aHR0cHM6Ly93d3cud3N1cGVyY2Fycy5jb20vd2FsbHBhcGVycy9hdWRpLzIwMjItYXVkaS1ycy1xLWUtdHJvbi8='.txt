@@ -1,0 +1,12 @@
+
+audi’s rs q e-tron is rocking a hybrid powertrain and ready to take on the dakar rally in 2022. it is a purpose-designed prototype developed from the ground up to go tackle the worlds harshest rally.
+the decision to go with a hybrid setup was dictated by the long dakar stages which can stretch out to 500 miles or so. a pure electric car would struggle to meet those demands and be held back by finding charging infrastructure in the saudi arabian desert and charge times. 
+audi have fitted a tfsi engine sourced from their dtm touring car program, and two electric motors positioned in the front and rear axles. a 50 kwh battery will feed those two motors whilst the engine will charge the battery. the total power output of the system is around the 660 hp mark, which is of course send to all four wheels.
+
+
+engine: hybrid
+weight: –
+power: 493 kw / 660 hp / 670 ps
+0-62 mph: –
+torque: –
+top speed: –

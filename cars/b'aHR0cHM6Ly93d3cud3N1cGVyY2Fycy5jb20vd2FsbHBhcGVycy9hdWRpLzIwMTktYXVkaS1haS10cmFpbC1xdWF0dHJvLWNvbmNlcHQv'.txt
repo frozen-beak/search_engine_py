@@ -1,0 +1,12 @@
+
+audi has shown off their vision of a future automated off-roader, their fourth in a series of electric concepts released since 2017. the ai:trail is intended for exploring, designed for people with active lifestyles who enjoy the outdoors and traversing rough terrain.
+this is how marc lichte, audi’s head of design, describes the use case: “with the ai:trail, we are showing an off-road concept with an emissions-free electric drive for an innovative driving experience away from paved roads. consistent with this, we designed a monolithic basic vehicle body with maximum glazing to create an intense connection to the surroundings. a concept for sustainable mobility on demand.”
+designed with a big glasshouse, the ai:trail features unobstructed views for great visibility and a high ride height to help clear rocks and water hazards. audi have stated that the target range for easy off-road driving is between 248 to 310 miles, and on tough ground where energy consumption is higher due to elevated wheel slip, the target is 155 miles.
+
+
+motor: 4x electric
+weight: –
+power: 320 kw / 429 hp / 435 ps
+0-62 mph: –
+torque: 1,000 nm / 738 lb-ft
+top speed: 130 kph / 81 mph

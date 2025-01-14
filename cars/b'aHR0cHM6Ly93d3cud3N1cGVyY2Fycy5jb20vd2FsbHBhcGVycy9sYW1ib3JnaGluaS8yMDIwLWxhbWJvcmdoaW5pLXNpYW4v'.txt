@@ -1,0 +1,11 @@
+
+the new hybrid lamborghini sian has debuted with supercapacitor tech, delivering the most powerful lambo to date with over 800 horsepower. with all their competitors dipping their toes into the world of hybrids and electrics, lamborghini have stayed the path of big naturally aspirated internal combustion engines for many years now. however in 2019 the sian has bucked that trend, employing a 48 volt hybrid setup that uses a lightweight supercapacitor in pace of a heavier lithium battery pack.
+the 6.5l v12 produces 785 ps on it’s own, and is increased to 819 ps when combined with the 34 ps electric motor. that electric motor has been designed to augment the power delivery of the v12, improving in-gear performance as well as torque filling during gearshifts. 0-62 mph has been quoted as under 2.8 seconds, which is around the same as the aventador svj. the real performance boost can be seen in the 40-70 mph range which in the sian has been reduced by a second. lamborghini is making only 63 sian’s, and every one of them has already been spoken for. we don’t expect this will be the last time we see this supercapacitor technology in a lambo, with plenty of future models likely to used a similar system.
+
+
+engine: 6.5l v12 hybrid
+weight: –
+power: 602 kw / 808 hp / 819 ps
+0-62 mph: under 2.8 seconds
+torque: –
+top speed: 350+ kph / 217+ mph

@@ -1,13 +1,1 @@
 
-a pagani zonda is never shy of a drive at the racetrack, a fact that was undermined numerous times in the past with records for production vehicles at the nurburgring nordschleife. with the input of its avid track focused customers, the pagani team has created the zonda r using bespoke engineering solutions to meet the performance demands for a trackday version of the highly popular zonda f.
-the central monocoque is made of a carbon-titanium composite, increasing rigidity while reducing significantly the weight. bolted directly to the chassis is the mercedes amg 6.0 litre race derived v12 engine, with 750 hp and 710 nm of torque. a direct throttle actuation via mechanical cable ensures immediate throttle response.
-at the pits, each driver will be able to find a suitable setup thanks to a fully adjustable suspension and wing configuration. the effectiveness of the rear is matched by a complex new front bonnet, a masterpiece realised with the help of models by ennegi, as well as the closed underbody and rear diffusor. aerodynamic setups rage from a high downforce setting of 1.500kg to a 350kmh top speed setting.
-source: pagani press release
-
-
-engine: 6.0l v12
-weight: 1,070 kg / 2,359 lbs
-power: 559 kw / 750 hp / 760 ps
-0-62 mph: 2.7 seconds
-torque: 710 nm / 523 lb-ft
-top speed: 374 kph / 232 mph

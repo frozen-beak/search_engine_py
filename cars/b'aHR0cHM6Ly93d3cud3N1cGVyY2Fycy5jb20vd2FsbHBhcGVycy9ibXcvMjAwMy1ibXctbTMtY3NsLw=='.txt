@@ -1,0 +1,13 @@
+
+in 2003 bmw introduced the series version of the concept car which had already hit the headlines at the 2001 frankfurt motor show – the bmw m3 csl, an abbreviation standing for “coupé, sports, lightweight”.
+indeed, this bmw tradition goes all the way back to the ’30s of the former century, when the legendary 328 mille miglia touring coupé first saw the light of day. this time, however, bmw’s engineers interpreted the old theme in a new way, focusing not on the radical reduction of weight simply by removing individual components, but rather on intelligent lightweight engineering, that is the reduction of weight by using the best and most appropriate materials at the right point. accordingly, bmw’s experts succeeded in reducing the weight of the bmw m3 by more than 110 kilos or 243 lb, with the csl version weighing in at just 1,385 kg or 3,054 lb.
+the power unit was also upgraded, now developing maximum output in this specific model of 265 kw or 360 hp. the result was a power-to-weight ratio of just 3.85 kg per horsepower, a truly sensational figure making the bmw m3 csl even more agile and dynamic than the “regular” bmw m3. as a result, the bmw m3 csl accelerates to 100 km/h in just 4.9 seconds and reaches 200 km/h in an equally astounding 16.8 seconds. top speed, in turn, is limited electronically to 250 km/h or 155 mph.
+source: bmw press release
+
+
+engine: 3.2l inline 6
+weight: 1,385 kg / 3,053 lbs
+power: 268 kw / 360 hp / 364 ps
+0-62 mph: 4.9 seconds
+torque: 370 nm / 273 lb-ft
+top speed: 250 kph / 155 mph

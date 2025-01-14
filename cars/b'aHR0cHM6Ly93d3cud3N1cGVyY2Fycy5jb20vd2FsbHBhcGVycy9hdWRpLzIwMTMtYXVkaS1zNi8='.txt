@@ -1,0 +1,12 @@
+
+the all-new audi s6 sedan brings exhilarating performance, intelligent efficiency technologies and exclusive “s” design cues in a vehicle that builds upon the already excellent package delivered by its cousin, the audi a6, which was introduced in summer 2011.
+the s6 is equipped with the new twin-turbo 4.0 tfsi engine that delivers 420 horsepower and an impressive 406 lb-ft of torque from 1,400 to 5,300 rpm. it accelerates from 0 to 62 mph in 4.8 seconds and has an electronically governed top speed of 155 mph. the 4.0 tfsi v8 engine brings audi’s downsizing strategy of progressive performance to the mid-sized luxury sedan segment. compared to the engine in the previous model, the free-breathing 5.2-liter v10, it offers even sportier performance while reducing fuel consumption by as much as 25 percent.
+source: audi press release
+
+
+engine: 4.0l v8 twin turbo
+weight: –
+power: 313 kw / 420 hp / 425 ps
+0-62 mph: 4.8 seconds
+torque: 550 nm / 405 lb-ft
+top speed: 250 kph / 155 mph

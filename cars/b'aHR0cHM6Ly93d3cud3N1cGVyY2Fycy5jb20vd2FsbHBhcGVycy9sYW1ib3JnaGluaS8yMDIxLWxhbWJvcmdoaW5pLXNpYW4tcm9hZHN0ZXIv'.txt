@@ -1,0 +1,12 @@
+
+lamborghini have created a roadster version of their supercapacitor equipped 808 horsepower sian. the sian was originally unveiled in 2019 at the frankfurt motor show, where buyers snapped up the limited numbers available. even though that hard top sian is yet to make any deliveries, the roadster model has sold out as well with all 19 units already accounted for.
+the mechanicals for the roadster consist of the same 6.5l v12 engine as found in the aventador but this time coupled with a small 48v electric motor capable of an extra 34 horsepower. the v12 on it’s own generates 774 hp, an increase over the aventador svj’s 760 hp thanks to the use of titanium intake valves. coupled with the e-motor the sian roadster develops a combined peak power output of 819 ps (602 kw), enough power to accelerate form 0-62 mph in under 2.9 seconds and onwards to a top speed of over 217 mph.
+the hybrid technology used here isn’t like your normal setup, with lamborghini opting for a supercapacitor over a traditional lithium-ion battery. this means the electricity can be transferred quickly both ways with a single brake application able to completely charge the capacitor. weight can also be kept to a minimum with the whole hybrid system weighing around 34 kilograms.
+
+
+engine: 6.5l v12 hybrid
+weight: –
+power: 602 kw / 808 hp / 819 ps
+0-62 mph: under 2.9 seconds
+torque: –
+top speed: 350+ kph / 217+ mph
