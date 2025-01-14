@@ -1,1 +1,11 @@
 
+the pagani zonda has seen many different versions over it’s extended lifespan, and the c12 s was the one that saw the introduction of the 7.0l v12. launched after the c12 zonda, the s version got the larger, more powerful amg sourced v12 engine that replaced the previous 6.0l unit. pagani would then go onto enlarge the engine further to 7.3l for the zonda s in 2002. 
+with power topping out at 542 hp and peak torque reaching 553 lb-ft, pagani developed a new 6-speed manual transmission to cope with the extra power and torque of the 7.0l.  acceleration was improved for the c12 s, with it being capable of a 0-60 mph run of just 3.7 seconds and 0-100 mph run of 7.5 seconds. top speed was a very healthy 208 mph, which  helped to cement the zonda’s supercar credentials of the time.
+
+
+engine: 7.0l v12
+weight: 1,250 kg / 2,756 lbs
+power: 405 kw / 542 hp / 550 ps
+0-60 mph: 3.7 seconds
+torque: 750 nm / 553 lb-ft
+top speed: 335 kph / 208 mph

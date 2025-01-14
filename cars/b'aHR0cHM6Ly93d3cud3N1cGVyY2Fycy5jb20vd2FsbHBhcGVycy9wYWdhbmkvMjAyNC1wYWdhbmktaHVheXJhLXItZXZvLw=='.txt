@@ -1,1 +1,10 @@
 
+pagani’s track-only huayra r now has an evo spec with 888 horsepower and no roof. with a power bump of 50 hp over the huayra r from 2021, the evo version can now stake its claim as the most powerful pagani to date. capable of revving up to 9200 rpm, the 6.0l naturally aspirated v12 engine has new camshaft, intake manifolds and exhaust system. the six-speed sequential dog-ring gearbox is integrated into the chassis as part of the rear suspension, and the whole car tips the scales at only 2,337 lbs dry. as for why the roof is missing (more like the targa tops of old), i have no idea.
+
+
+engine: 6.0l v12
+weight: 1,060 kg / 2,337 lbs
+power: 662 kw / 888 hp / 900 ps
+0-62 mph: –
+torque: 770 nm / 568 lb-ft
+top speed: –
