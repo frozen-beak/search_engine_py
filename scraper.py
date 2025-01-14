@@ -19,7 +19,18 @@ Logger.basicConfig(
 
 
 BASE_URL = "https://www.wsupercars.com/wallpapers/"
-BRANDS = ["pagani"]
+BRANDS = [
+    "lamborghini",
+    "audi",
+    "porsche",
+    "nissan",
+    "toyota",
+    "honda",
+    "Bugatti",
+    "bmw",
+    "mercedes-benz",
+    "pagani",
+]
 
 
 # --------------------- Utils ---------------------
