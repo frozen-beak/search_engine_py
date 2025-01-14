@@ -93,5 +93,7 @@ for id, link in enumerate(car_links):
     else:
         specs = ""
 
-    with open(f"./cars/{id}.txt", "w") as file:
+    doc_id = gen_id(link)
+
+    with open(f"./cars/{doc_id}.txt", "w") as file:
         file.write(desc + "\n" + specs)
