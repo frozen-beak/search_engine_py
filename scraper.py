@@ -3,6 +3,7 @@ import requests
 import base64
 import logging as Logger
 
+
 # ------------------- Logging Setup -------------------
 
 Logger.basicConfig(
@@ -18,18 +19,7 @@ Logger.basicConfig(
 
 
 BASE_URL = "https://www.wsupercars.com/wallpapers/"
-BRANDS = [
-    "lamborghini",
-    "audi",
-    "porsche",
-    "nissan",
-    "toyota",
-    "honda",
-    "Bugatti",
-    "bmw",
-    "mercedes-benz",
-    "pagani",
-]
+BRANDS = ["pagani"]
 
 
 # --------------------- Utils ---------------------
@@ -96,4 +86,8 @@ for id, link in enumerate(car_links):
     doc_id = gen_id(link)
 
     with open(f"./cars/{doc_id}.txt", "w") as file:
-        file.write(desc + "\n" + specs)
+        file.write(desc)
+        file.write("\n")
+        file.write(specs)
+
+        file.flush()
