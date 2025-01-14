@@ -1,0 +1,11 @@
+
+unveiled at ces 2017, the toyota concept-i features an advanced ai called ‘yui’. this artificial intelligence sets out to build a greater relationship between car, driver and the environment. the ai will learn as it is driven over time, however no further information is given as to what affect this will have.
+toyota is taking a two pronged approach to developing the yui, which they call ‘guardian’ & ‘chauffeur’. the guardian mode is designed to only be active when needed, it will be able to take control to enact maneuvers for the occupants safety. chauffeur mode is always active for autonomous driving taking full control of the vehicle.
+
+
+engine: –
+weight: –
+power: –
+0-62 mph: –
+torque: –
+top speed: –

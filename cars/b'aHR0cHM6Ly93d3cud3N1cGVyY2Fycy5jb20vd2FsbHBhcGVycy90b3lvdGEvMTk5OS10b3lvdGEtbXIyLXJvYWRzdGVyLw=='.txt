@@ -1,0 +1,13 @@
+
+the third-generation mr2 was marketed as the toyota mr-s in japan, toyota mr2 spyder in the us, and the toyota mr2 roadster in europe. the newest mr2 took a different approach than its predesssor, most obviously becoming a convertible and receiving the ‘spyder’ marketing nomenclature.
+the first prototype of mr-s appeared in 1997 at the tokyo motor show. the mr2 spyder chief engineer harunori shiratori said, “first, we wanted true driver enjoyment, blending good movement, low inertia and light weight. then, a long wheelbase to achieve high stability and fresh new styling; a mid-engine design to create excellent handling and steering without the weight of the engine up front; a body structure as simple as possible to allow for easy customizing, and low cost to the consumer.”
+the only engine available for the zzw30 was the all-aluminium 1zz-fed, a 1794 cc inline-four. like its predecessors, the engine used dual overhead camshafts and 16 valves. the intake camshaft timing was adjustable via the vvt-i system, which was introduced earlier on the 1998 mr2 in some markets. the 138 hp (104 kw) maximum power was quite a drop from the previous generation, but thanks to the lightness of the car it could still move quite quickly, accelerating from 0 to 100 km/h (62 mph) in 6.8 to 8.7 s depending on the transmission option, the sequential manual being unable to launch and shift as quickly as the clutch operated manual. curb weight was 2,195 pounds (996 kg) for manual transmission models.
+source: wikipedia (original)
+
+
+engine: 1.8l inline 4
+weight: 1,006 kg / 2,217 lbs
+power: 104 kw / 138 hp / 140 ps
+0-62 mph: 7.3 seconds
+torque: 158 nm / 117 lb-ft
+top speed: 198 kph / 123 mph

@@ -1,0 +1,12 @@
+
+supra is powered by a high-performance, twin-cam, in-line six-cylinder, 24-valve, electronically fuel-injected engine. in normally aspirated trim, it produces 220 horsepower at 5,800 rpm and a maximum of 210 lb-ft of torque at 4,800 rpm. in addition to a specially tuned intake system, it incorporates split-exhaust manifolds for reduced engine back pressure, enhanced power output and greater fuel economy. the normally-aspirated supra is available with either a five-speed manual and four-speed automatic transmission.
+supra’s turbocharged engine produces 320 horsepower at 5,600 rpm and 315 lb-ft of torque at 4,000 rpm. supra’s twin-sequential intercooled turbos provide quick response at low engine speeds and high-volume output at increased engine speeds. during low-speed operation, only one turbocharger operates, using less exhaust energy to improve response and torque from a standing start. in the middle-speed range, the second turbo comes to idle at a pre-set exhaust pressure for a smooth transition from the primary to the secondary turbocharger. both turbos operate at full boost in the high-speed range.
+source: toyota press release
+
+
+engine: 3.0l i6 twin turbo
+weight: –
+power: 238 kw / 320 hp / 324 ps
+0-62 mph: 5.1 seconds
+torque: 427 nm / 315 lb-ft
+top speed: 250 kph / 155 mph

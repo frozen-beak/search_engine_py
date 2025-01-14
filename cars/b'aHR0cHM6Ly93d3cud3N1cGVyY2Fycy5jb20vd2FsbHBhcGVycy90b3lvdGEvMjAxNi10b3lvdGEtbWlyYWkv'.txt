@@ -1,0 +1,13 @@
+
+the toyota mirai uses the toyota fuel cell system (tfcs), which features both fuel cell technology and hybrid technology, and includes toyota’s new proprietary fc stack and high-pressure hydrogen tanks. the tfcs is more energy efficient than internal combustion engines and emits no co2 or pollutants when driven. drivers can also expect the same level of convenience as offered by gasoline engine vehicles, with a generous cruising range and a hydrogen refueling time of about three minutes.
+the toyota mirai delivers everything expected of a next-generation car: an immediately recognizable design; driving exhilaration stemming from superior handling stability achieved by a low center of gravity; and quiet but powerful acceleration provided by the electric motor.
+hydrogen can be generated using a wide range of natural resources and man-made byproducts such as sewage sludge. it can also be created from water using natural renewable energy sources like solar and wind power. when compressed, it has a higher energy density than batteries, and is relatively easy to store and transport, therefore it also carries expectations for potential future use in power generation and a wide range of other applications. fcvs are able to generate their own electricity from hydrogen, meaning they can help make a future hydrogen-based society a reality, and are therefore expected to further contribute to accelerating energy diversification.
+source: toyota press release
+
+
+motor: hydrogen electric
+weight: 1,850 kg / 4,078 lbs
+power: 114 kw / 153 hp / 155 ps
+0-62 mph: –
+torque: 335 nm / 247 lb-ft
+top speed: –

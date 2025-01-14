@@ -1,0 +1,11 @@
+
+the new a70 supra engine, the toyota 7m-ge, was the flagship engine of toyota’s arsenal. both versions of the engine contained 4 valves per cylinder and dual overhead cams. the turbocharged 7m-gte engine was toyota’s first distributor-less engine offered in the us which used coil packs sitting on the cam covers and a cam position sensor driven by the exhaust camshaft. it was equipped with a ct26 turbocharger and was rated at 230 hp (172 kw) at 5600 rpm while the naturally aspirated 7m-ge engine was rated at 200 hp (149 kw) at 6,000 rpm. further refinement on the turbo model increased power to 232 hp (173 kw) and 254 lb-ft (344 nm) in 1989.
+source: wikipedia (original)
+
+
+engine: 3.0l inline 6 turbo
+weight: 1,583 kg / 3,490 lbs
+power: 173 kw / 232 hp / 235 ps
+0-62 mph: 7.9 seconds
+torque: 344 nm / 254 lb-ft
+top speed: 250 kph / 155 mph
