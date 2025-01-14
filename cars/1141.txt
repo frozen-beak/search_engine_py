@@ -1,0 +1,11 @@
+
+before amg became part of the daimler family, they were an independent tuning company who specialised in making mercedes faster starting in the 60’s. the c36 was an official collaboration between mercedes and amg, which saw a regular c-class c280 with a 2.8l inline 6 cylinder engine sent over to the amg factory for some major surgery. when it emerged, the c36’s engine had been enlarged to 3.6l courtesy of a larger bore and longer stroke. the compression ratio was increased to 10.5:1, larger intake and exhaust manifolds were fitted to help the engine breathe better and the inlet camshaft was changed. the resulting power increase saw the engine developing 206 kw at 5,750 rpm and 385 nm at 4,000 rpm.
+the transmission was changed with the 4-speed unit from the s-class that featured a sportier torque converter. later in 1996, a 5-speed gearbox was fitted instead. the steering was overhauled with greater feel and accuracy due to the suspension being lowered and tuned with new springs and dampers. externally the c36 amg received 17-inch alloy wheels with low profile rubber, and a subtle body kit that just hinted at the performance potential of the car. this was a car that only the mercedes enthusiasts would recognise as something special with the overall appearance resembling closely to that of the c280 it started life as.
+
+
+engine: 3.6l inline 6
+weight: 1,485 kg / 3,274 lbs
+power: 206 kw / 276 hp / 280 ps
+0-62 mph: 6.7 seconds
+torque: 385 nm / 284 lb-ft
+top speed: 253 kph / 157 mph

@@ -1,0 +1,10 @@
+
+as the original ‘super sedan’ the first m5 laid claim to the fastest production sedan in the world at launch. the 3.5l inline 6 engine produced 282 hp and 251 lb-ft of torque, which was capable of hurling the relatively light weight of 3,153 lbs from 0 to 62 mph in 6.2 seconds. 280 odd horsepower was quite a bit in the mid 1980’s and with it’s taxi status looks the e28 m5 was capable of surprising many performance cars on the road. in the end only 2,241 units were ever built, making it one of the rarest bmw m cars ever made. a shame we don’t see cars made like this anymore.
+
+
+engine: 3.5l inline 6
+weight: 1,430 kg / 3,153 lbs
+power: 210 kw / 282 hp / 286 ps
+0-62 mph: 6.2 seconds
+torque: 340 nm / 251 lb-ft
+top speed: 245 kph / 152 mph

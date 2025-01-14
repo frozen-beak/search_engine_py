@@ -1,0 +1,11 @@
+
+the ultimate formula 1 powered amg is finally ready, and it packs a big punch. the process of transforming mercedes multiple championship winning f1 engine into a road going beast took five long years of extensive development. after revealing the project one concept in 2017, the challenges faced turned out to bigger than expected pushing back the production version until now.
+the drivetrain is a complicated setup consisting of a 1.6l v6 petrol combustion engine that is turbocharged and supplemented by four electric motors. the v6 can rev up to 11,000 rpm and produces 565 hp on it’s own, with turbo lag completely eliminated by the mgu-h electric motor that spins up the turbine. connected to the side of the crankcase is the mgu-k electric motor that can contribute 160 hp into the crankshaft. finally the remaining two electric motors are positioned at the front of the car on each axle, making this an all-wheel drive setup and combining for 321 hp. total system output 1,048 hp. 
+
+
+engine: 1.6l v6 turbo hybrid
+weight: –
+power: 782 kw / 1,048 hp / 1,063 ps
+0-62 mph: less than 3.0 seconds
+torque: –
+top speed: 352 kph / 219 mph

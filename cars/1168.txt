@@ -1,0 +1,11 @@
+
+as a technology project to improve mercedes electric vehicles, the eqxx concept car is aiming for a 620 mile range. with a focus on efficiency, the eqxx boasts a figure of 6 miles per kwh thanks to a team up with the mercedes-amg formula 1 team. they helped put together a super-high-density battery pack that is just under 100 kwh in capacity but is 30% lighter with 50% less volume than the same battery used in the eqs. an impressive feat that mercedes attributes mainly to chemistry improvements.
+other changes that have all help improve efficiency is a 900-volt electrical system and integrated solar panels in the roof that on an ideal day, can add up to 15.5 miles of range. the eqxx will not make it into production and will stand as an impressive technology testbed that the company will learn from to integrate into products in the bear future. expect to see these advancements make it to production around 2024-25.
+
+
+motor: electric @ 100 kwh
+weight: 1,750 kg / 3,858 lbs
+power: 150 kw / 201 hp / 204 ps
+0-62 mph: –
+torque: –
+top speed: –

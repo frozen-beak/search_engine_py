@@ -1,0 +1,12 @@
+
+from 2003 the audi tt came with the option of fitting a 3.2l vr6 engine from the volkswagen golf r32. this was more powerful than the other engine option of a 1.8l inline 4 turbo, with 250 hp compared to 148 – 222 hp. the downside was the extra weight of the bigger engine, which meant performance was very similar between the two.
+the v6 version was only available in quattro trim, with the haldex four-wheel drive system from volkswagen sending power to the rear wheels when needed, but remaining a predominately front drive car.
+also new for the 2003 model year was the introduction of the 6-speed dsg (direct-shift gearbox) dual clutch transmission. this used one clutch for the odd numbered gears and the other clutch for the even numbered gears. the result was faster shift times as one clutch would always be ready with the next gear pre selected. the gear changes were even faster than a manual could muster.
+
+
+engine: 3.2l v6
+weight: 1,555 kg / 3,428 lbs
+power: 187 kw / 250 hp / 254 ps
+0-62 mph: 5.9 seconds
+torque: 320 nm / 236 lb-ft
+top speed: 250 kph / 155 mph

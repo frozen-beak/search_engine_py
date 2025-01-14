@@ -1,0 +1,11 @@
+
+amg have revealed their first plug-in hybrid ever with the gt63 s e performance 4-door now boasting a huge 831 horsepower. the powertrain combines the usual 4.0l twin turbocharged v8 engine that produces 631 hp on it’s own with a rear mounted 201 hp electric motor. that all enables the gt 63 s e performance 4-door to accelerate from 0-62mph in just 2.9 seconds and reach a top speed of 195 mph.
+the absolute peak power output of 831 hp with 1,033 lb-ft of torque is available on overboost when launch control is selected and utilising both motors to their maximum potential. an unusual part of this system is the inclusion of two separate transmissions. a nine-speed mct wet-clutch automatic for the v8 sends power to all four wheels via an electronically controlled limited slip differential. and a two-speed transmission is what the electric motor sends power through into the same elsd to both the rear and front wheels. all up, both motors can send power to all-four wheels in a rear biased fashion or all power exclusively to the rear wheels in drift mode.
+
+
+engine: 4.0l v8 twin turbo hybrid
+weight: –
+power: 620 kw / 831 hp / 843 ps
+0-62 mph: 2.9 seconds
+torque: 1,400 nm / 1,033 lb-ft
+top speed: 315 kph / 195 mph

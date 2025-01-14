@@ -1,0 +1,10 @@
+
+bmw’s 5-series has spawned an electric i5 version which rocks 600 horsepower for the m60 spec. utilising bmw’s fifth-generation edrive motors, the regular i5 uses a single 335 hp, 243 lb-ft electric motor positioned on the rear axle. for the m60 an extra 257 hp motor is added into the mix on the front axle, with both combining for a total system output of 593 hp and 604 lb-ft of torque. acceleration clocks in at 2.8 second for the 0 to 62 mph and the 81.2 kwh battery should provide a range of around 320 miles for the i5 m60.
+
+
+motor: 2x electric @ 81.2 kwh
+weight: –
+power: 442 kw / 593 hp / 601 ps
+0-62 mph: 3.8 seconds
+torque: 819 nm / 604 lb-ft
+top speed: –

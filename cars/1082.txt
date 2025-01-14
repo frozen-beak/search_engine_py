@@ -1,0 +1,12 @@
+
+its innovative plug-in hybrid concept combines the modified electric drive system from the bmw i3 concept – fitted over its front axle – with a high-performance three-cylinder combustion engine producing 164 kw / 220 hp and 300 nm / 221 lb-ft at the rear. the electric motor in the bmw i8 concept is a full-capability unit which can also power the car on its own, if required. however, working in tandem allows the two drive systems to display their respective talents to the full, delivering the performance of a sports car but the fuel consumption of a small car. 
+acceleration of 0 to 100 km/h (62 mph) in under five seconds combined with fuel consumption in the european cycle of under three litres per 100 kilometres (approx. 94 mpg imp) and average customer fuel consumption of between five and seven litres per 100 kilometres (40.4 – 56.5 mpg imp) – even when driven hard – are figures currently beyond the capability of any vehicle powered by a combustion engine of comparable performance. thanks to its large lithium-ion battery, which can be charged from a domestic power supply, the bmw i8 concept can travel up to 35 kilometres (approx. 20 miles) on electric power alone. a large proportion of short everyday journeys can therefore be completed with zero emissions. the car’s electric-only mode allows it to enter emissions-capped central areas of cities with access restrictions in place for petrol or diesel-powered vehicles. the i8 concept’s efficiency rating is further enhanced by its ability to generate energy at both axles. the electric motor at the front axle recoups maximum energy every time the driver brakes, while a high-voltage alternator hooked up to the combustion engine charges the battery, if required. added to which, the 2+2-seater offers enough space for four people, giving it a high level of everyday practicality.
+source: bmw press release
+
+
+engine: 1.3l inline 3 hybrid
+weight: –
+power: 260 kw / 350 hp / 353 ps
+0-62 mph: under 5 seconds
+torque: 550 nm / 406 lb-ft
+top speed: 250 kph / 155 mph

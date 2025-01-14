@@ -1,0 +1,12 @@
+
+mercedes has joined the electric vehicle revolution with their own eqc luxury suv, which will compete with the tesla model x, jaguar i-pace and upcoming audi e-tron. this is an important first step for mercedes with an all new electric drivetrain, marking the beginning of a new era for the german car manufacturer.
+the mercedes eqc is powered by 2 electric motors positioned on each axle, providing all-wheel drive with active torque vectoring between the axles and individual wheels. the battery pack is an 80kwh unit which weighs 650 kg by itself, and helps the system deliver a total of 402 horsepower (300 kw) and 546 lb-ft (740 nm) of torque from zero rpm. due to the extra weight of the battery and associated drive system, the eqc tips the scales at a porky 2,425 kg (5,346 lbs). despite the weight, mercedes is claiming a healthy acceleration time of 0-100 kph in 5.1 seconds.
+finally the range of the mercedes eqc is quoted as 279 miles with the nedc. note that this calculation is not on the new wltp regulations, so expect real life range to be lower. in fact the epa have rated the range at close to 200 miles, which comes in under it’s rivals by a fair margin.
+
+
+motor: 2x electric @ 80kwh
+weight: 2,425 kg / 5,346 lbs
+power: 300 kw / 402 hp / 408 ps
+0-62 mph: 5.1 seconds
+torque: 740 nm / 546 lb-ft
+top speed: –

@@ -1,0 +1,10 @@
+
+mercedes have re-imagined one of their famous concept cars from the 1970’s as the new retro-futuristic vision one-eleven concept. the original was called the c111 which featured a striking design, fiberglass body shell and was a test bed for alternative propulsion methods such as the wankel rotary engine. this new interpretation is all-electric with an eye to future hypercars from mercedes-amg.
+
+
+motor: electric
+weight: –
+power: –
+0-62 mph: –
+torque: –
+top speed: –

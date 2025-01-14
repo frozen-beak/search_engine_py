@@ -1,0 +1,11 @@
+
+mercedes is set to enter the world of electric cars with their eq branding, launching 10 cars by 2022 in this sub-brand. the concept eqa, is like the name suggests an a-class version of the eq electric version. the two door concept is another example of mercedes ‘sensual purity’ design idiom, reducing sharp edges and lines significantly, leaving a very well rounded and smooth form.
+the electric powertrain has been built to be modular, with the possibility of more power being added to the system thanks to scalable battery components. the system uses 2 electric motors, permanent all-wheel drive and two drive programs called “sport” and “sport plus”, which offer different front to rear torque distribution.
+
+
+motor: 2x electric
+weight: –
+power: 200 kw / 268 hp / 272 ps
+0-62 mph: 5.0 seconds
+torque: 500+ nm / 368+ lb-ft
+top speed: –

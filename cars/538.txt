@@ -1,0 +1,10 @@
+
+the new porsche panamera combines the 4s and the e-hybrid models to create the second most powerful panamera in the range. featuring a new 2.9l twin turbocharged v6 engine that develops 450 ps (331 kw) of power, the hybrid part comes in the form of a 136 ps (100 kw) electric motor integrated into the eight-speed dual-clutch pdk transmission. a bigger 17.9 kwh battery now powers that electric motor and can provide an all-electric range of 33 miles on the wltp cycle.
+
+
+engine: 2.9l v6 twin turbo hybrid
+weight: –
+power: 412 kw / 552 hp / 560 ps
+0-62 mph: 3.7 seconds
+torque: 750 nm / 553 lb-ft
+top speed: 298 kph / 185 mph

@@ -1,0 +1,11 @@
+
+mercedes-amg g63 now comes with a 48v mild-hybrid system coupled to its twin turbo v8 engine for a little extra power and torque. the 4.0l v8 has remained unchanged, pumping out 577 hp and 627 lb-ft on its own, and the hybrid system can add a further 20 hp and 148 lb-ft into the mix. this is designed to come in at low speeds helping to reduce fuel consumption and slightly improve acceleration which now sits at 4.2 seconds for the 0-60 mph.
+elsewhere, the g63 now has active hydraulic torsion bars and hydraulically-linked adaptive shock absorbers which all form part of the new amg active ride control system. this should improve comfort, off-road ability and handling along with better wheel-selective braking and torque management.
+
+
+engine: 4.0l v8 twin turbo
+weight: 2,640 kg / 5,820 lbs
+power: 430 kw / 577 hp / 585 ps
+0-60 mph: 4.2 seconds
+torque: 850 nm / 627 lb-ft
+top speed: 240 kph / 149 mph

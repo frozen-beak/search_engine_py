@@ -1,0 +1,12 @@
+
+taking its place between the ’43’ and ’63’ amg models, the new 53 will feature an all new twin turbo inline 6 that’s paired with a 48 volt electrical hybrid system. unlike most twin turbo setups, this engine uses one conventional turbocharger that spins on the spent gases from the engine, and the other is an electric turbo that utilises the 48 volt system to give instant torque fill from idle. this setup eliminates any lag in power until the conventional turbo is able to produce boost.
+a small electric motor is also fitted that forms part of mercedes’ eq boost technology. it can produce for short bursts, a further 21bhp and 184 lb-ft of torque on top of the engines 435 horsepower and 383 lb-ft. all ’53’ models will use the nine-speed amg speedshift gearbox and 4matic+ all-wheel drive system.
+“with the new 53-series models we are extending our portfolio in a first step towards a hybridised future with a leading-edge combination of sporty design, performance and efficiency. the basis for this is a contemporary drive configuration in the form of a six-cylinder in-line engine with electric auxiliary compressor, eq boost starter-alternator and 48 v on-board electrical system. the very spontaneous response to accelerator pedal input, the precision and the design focusing on driving dynamics are hallmark features of amg as such we are providing an additional lifestyle-oriented customer group with a further attractive offering from affalterbach”, explains tobias moers, chairman of the board of management of mercedes-amg gmbh.
+
+
+engine: 3.0l inline 6 turbo hybrid
+weight: 1,980 kg / 4,365 lbs
+power: 320 kw / 429 hp / 435 ps
+0-62 mph: 4.5 seconds
+torque: 520 nm / 383 lb-ft
+top speed: 270 kph / 168 mph

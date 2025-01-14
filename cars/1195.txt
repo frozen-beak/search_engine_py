@@ -1,0 +1,10 @@
+
+an electrified performance boost sees the new mercedes-amg e53 match the old e63 in power output. the 3.0l straight 6 turbocharged engine that makes 443 hp and 413 lb ft of torque on its own, is coupled with a 161 hp electric motor, a 28.6 kwh battery, a nine-speed transmission and mercedes’ variable 4matic+ four-wheel drive system. combined, the system can pump out 577 hp in normal mode and 603 hp in race mode. all of this will accelerate the car from 0 to 62 mph in 3.8 seconds and allow up to 62 miles of electric only range at speeds of up to 87 mph.
+
+
+engine: 3.0l inline 6 turbo
+weight: –
+power: 450 kw / 603 hp / 612 ps
+0-62 mph: 3.8 seconds
+torque: 750 nm / 553 lb-ft
+top speed: 278 kph / 173 mph

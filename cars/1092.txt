@@ -1,0 +1,10 @@
+
+2024 bmw x1 gets the m performance treatment with a nice bump up in power. that bump in power means 312 hp all up from the turbocharged inline 4 cylinder engine, with 295 lb-ft of torque to go with it. bmw have also added a mechanical limited-slip differential in the mix, a 7-speed steptronic transmission and optional “m compound” brake pads.
+
+
+engine: 2.0l inline 4 turbo
+weight: –
+power: 233 kw / 312 hp / 317 ps
+0-62 mph: 5.4 seconds
+torque: 400 nm / 295 lb-ft
+top speed: 250 kph / 155 mph

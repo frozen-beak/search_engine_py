@@ -1,0 +1,13 @@
+
+the 911 carrera 4 gts power unit has its origins in the 3.8-litre, six-cylinder carrera s engine. a wholesale revamping of the intake duct added 23 hp (17 kw), taking the power output to 408 hp (300 kw) at 7,300 rpm. the special aspiration system not only improves peak power output but flexibility and power development as well thanks to a more generous torque curve in the lower and middle engine speed range. 320 newton metres kick in from as low as 1,500 rpm; the six-cylinder engine delivers its rated torque of 420 nm in the broad engine speed range from 4,200 rpm and 5,600 rpm. 
+at full power the carrera 4 gts coupé sprints to 100 km/h (62 mph) in 4.6 seconds, the cabriolet in 4.8 seconds. the carrera 4 gts is fitted as standard with a six-speed manual transmission but the porsche-doppelkupplungsgetriebe (pdk) seven-speed is available as an option if desired. the pdk shaves an additional 0.2 seconds respectively off the acceleration times from 0 to 100 km/h (62 mph).
+in the carrera 4 gts as well, ptm all-wheel drive stands for porsche’s typical driving pleasure with even more driving stability, traction and agile handling. the ptm achieves this by directing the optimal proportion of the engine torque to the front wheels via a multiple-plate clutch. what’s more, just how single-mindedly the carrera 4 gts is designed for driving dynamics is evident from the use of a standard limited-slip differential. this mechanical rear differential lock contributes to the driving dynamics of the electronically controlled all-wheel drive system.
+source: porsche press release
+
+
+engine: 3.8l flat 6
+weight: –
+power: 300 kw / 402 hp / 408 ps
+0-62 mph: 4.6 seconds
+torque: 420 nm / 310 lb-ft
+top speed: –

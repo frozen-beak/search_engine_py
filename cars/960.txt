@@ -1,0 +1,10 @@
+
+utilising parts from the competition pack m3 to improve power and reduce weight, bmw have released the special edition 2018 m3 cs. the 3.0l twin turbocharged inline 6 engine has been revised to deliver and extra 28 hp to 454 hp in total. torque has risen 37 lb-ft to a peak of 443 lb-ft from 4000 to 5380 rpm. this new power is complimented with the m sports exhaust system that has been specially tuned for the cs, and feature quad stainless-steel tailpipes sitting nicely amongst the carbon fiber-reinforced plastic rear diffuser. helping the weight saving are light m sports seats, and the removal of automatic climate control and surround sound system. production of this limited run model will be set at 1,200 units worldwide.
+
+
+engine: 3.0l inline 6 twin turbo
+weight: 1,585 kg / 3,494 lbs
+power: 338 kw / 454 hp / 460 ps
+0-62 mph: 3.9 seconds
+torque: 600 nm / 442 lb-ft
+top speed: 280 kph / 174 mph

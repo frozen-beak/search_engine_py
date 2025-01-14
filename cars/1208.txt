@@ -1,0 +1,11 @@
+
+aiming to take on the tesla model s, mercedes eqs53 is there first amg badged performance ev with 750 horsepower. it may not be a proper ground-up amg vehicle, but it will sit at the top of the eqs line-up filling the need for a luxury sedan with plenty of performance.
+mercedes have fitted the eqs53 with two electric motors placed on both front and rear axles that both combine for 750 hp and 752 lb-ft of torque. those peak figures however are only available for short bursts in an overboost mode for cars equipped with the amg dynamic plus pack. the output drops to 648 hp and 701 lb-ft when not on overboost or for cars without the pack addition. acceleration when in top spec clocks in at 3.4 seconds form the 0-62 mph, and 3.8 seconds when in the lower power configuration.
+
+
+motor: 2x electric @ 107.8 kwh
+weight: –
+power: 559 kw / 750 hp / 760 ps
+0-62 mph: 3.4 seconds
+torque: 1,020 nm / 752 lb-ft
+top speed: 250 kph / 155 mph

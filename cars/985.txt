@@ -1,0 +1,11 @@
+
+bmw’s m4 convertible has returned for another generation, complete with fabric folding roof and all-wheel drive as standard. that fabric roof is 40 percent lighter than the previous generations folding hard-top, and takes only 18 seconds to fully lower or raise.
+the powertrain is very familiar to the bmw family, with a turbocharged 3.0l s58 inline 6 cylinder engine feeding power through an eight-speed zf auto transmission. power and torque are rated the same as the m4 competition coupe, with 503 hp and 479 lb-ft respectively. performance is slightly behind the equivalent all-wheel drive m4 coupe, which is to be expected with the added weight of extra structural stiffening required when removing the roof.
+
+
+engine: 3.0l inline 6 twin turbo
+weight: 1,995 kg / 4,398 lbs
+power: 373 kw / 503 hp / 510 ps
+0-62 mph: 3.7 seconds
+torque: 650 nm / 479 lb-ft
+top speed: 280 kph / 174 mph

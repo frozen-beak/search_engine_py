@@ -1,0 +1,11 @@
+
+lamborghini have entered the hypercar game with their essenza scv12, a track special designed to be the ultimate expression of the v12 engine. this is lamborghini’s most powerful v12 to date with the 6.5l unit developing 830 ps (610 kw) of power and 614 lb-ft (832 nm) of torque, a 59 ps and 83 lb-ft increase over the previous top v12 from the aventador svj. developed by the brand racing outfit squadra corse, the essenza does away with complying to road regulations, focusing on extreme aerodynamics and performance.
+stefano domenicali, ceo and chairman of automobili lamborghini, commented: “essenza scv12 represents the purest track driving experience that our brand can offer, an engineering feat that highlights the inextricable link between our cars and the asphalt of the track. lamborghini is a brand constantly looking to the future and searching for new challenges, but we never forget our roots and who we are: essenza scv12 is the perfect combination of our unconventional spirit as a super sports car manufacturer and our true passion for motorsport.”
+
+
+engine: 6.5l v12
+weight: 1,400 kg / 3,086 lbs
+power: 610 kw / 818 hp / 830 ps
+0-62 mph: –
+torque: 832 nm / 614 lb-ft
+top speed: –

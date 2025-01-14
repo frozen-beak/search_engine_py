@@ -1,0 +1,10 @@
+
+the porsche boxster t is a lighter, more focused boxster that sits in between the base model and the s model in the line-up. the t badge, which stands for touring, was first used in 1968 for the porsche 911, 2018 has seen the badge return to the porsche line-up as they fill in some gaps in the 911, cayman and boxster families.
+
+
+engine: 2.0l flat 4 turbo
+weight: 1,350 kg / 2,976 lbs
+power: 220 kw / 295 hp / 300 ps
+0-62 mph: 4.7 seconds
+torque: 380 nm / 280 lb-ft
+top speed: 275 kph / 171 mph

@@ -1,0 +1,10 @@
+
+lamborghini have fitted a plug-in hybrid powertrain to the new urus se, making it one of the most powerful suvs in the world. the 4.0l twin turbocharged v8 engine carries over form the urus s, cranking out 612 hp on its own, but this time it’s been coupled with a 189 hp electric motor integrated into the transmission. power is delivered from a 25.9 kwh battery positioned above the rear axle, resulting in a combined power output of 789 hp and 701 lb-ft of torque. this extra performance results in a 0 to 62 mph acceleration time of 3.4 seconds, one tenth quicker than the urus s.
+
+
+engine: 4.0l v8 twin turbo hybrid
+weight: –
+power: 588 kw / 789 hp / 800 ps
+0-62 mph: 3.4 seconds
+torque: 950 nm / 701 lb-ft
+top speed: 312 kph / 194 mph

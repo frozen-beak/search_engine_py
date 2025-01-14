@@ -1,0 +1,11 @@
+
+the bmw i4 m50 has the honour of being the first fully electric bmw m car, and with over 500 horsepower on tap, it certainly earns it. the powertrain consists of two electrically excited synchronous motors positioned on both the front and rear axles that combine to deliver 536 hp and 586 lb-ft of torque. these motors are in-house units from bmw that boast a 93% efficiency and no rare earth materials in their construction.
+the look of the i4 is very similar to it’s 3-series brother, sharing the now familiar large bmw front grille. the front and rear bumpers feature a unique design to help make it look a little different, and the bmw badge has a blue ring round it to denote it’s electric propulsion.
+
+
+motor: 2x electric @ 83.9 kwh
+weight: 2,276 kg / 5,018 lbs
+power: 400 kw / 536 hp / 544 ps
+0-60 mph: 3.7 seconds
+torque: 795 nm / 586 lb-ft
+top speed: 225 kph / 140 mph

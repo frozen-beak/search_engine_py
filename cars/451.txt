@@ -1,0 +1,12 @@
+
+for the 1989 model year porsche introduced the 944 s2, a car that shared the same rounded nose and a rear valance of the 944 turbo, but made use without the turbocharged engine. instead, the inline 4 cylinder was naturally aspirated and sat as the largest production 4-cylinder engine of its time. coming in at 3.0l compared to the 2.5l for the turbo, the engine made use of dual overhead cams and 4 valves per cylinder totalling 16-valves.
+performance was very similar between the two cars with s2 the slowest of the two. power output was rated at 208 hp for the s2, and 217 hp for the turbo equaling a 0-100 kph sprint of 6.7 seconds and 6.3 seconds respectively.
+the porsche 944 s2 was the first 944 model to offer a cabriolet version, which was released for the 1990 model year. the 944 turbo cabriolet followed a year later in 1991. the s2 saw some racing action during the late 80’s and early 90’s, competing in the porsche motorsport championship in britain. total production numbers for the 944 s2 finished at 14,071, with production ceasing in 1991.
+
+
+engine: 3.0l inline 4
+weight: 1,310 kg / 2,888 lbs
+power: 155 kw / 208 hp / 211 ps
+0-62 mph: 6.7 seconds
+torque: 280 nm / 207 lb-ft
+top speed: 241 kph / 150 mph

@@ -1,0 +1,11 @@
+
+the 2800cs was replaced by the 3.0 cs and 3.0 csi in 1971. the engine had been bored out to give a displacement of 2,986 cc (182.2 cu in), and was offered with a 9.0:1 compression ratio, twin carburettors, and 180 horsepower (130 kw) at 6000 revolutions per minute in the 3.0 cs or a 9.5:1 compression ratio, bosch d-jetronic fuel injection, and 200 horsepower (150 kw) at 5500 revolutions per minute in the 3.0 csi.
+source: wikipedia (original)
+
+
+engine: 3.0l inline 6
+weight: 1,380 kg / 3,042 lbs
+power: 147 kw / 197 hp / 200 ps
+0-62 mph: 7.5 seconds
+torque: 272 nm / 201 lb-ft
+top speed: 220 kph / 137 mph

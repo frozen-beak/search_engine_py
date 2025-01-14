@@ -1,0 +1,11 @@
+
+the audi r18 e-tron quattro did not only cause a sensation on its drive through le mans due to its striking livery. at the beginning of a fundamentally new technological era, audi published the key technical data of the race car’s powertrain as well. for instance, the cubic capacity of the v6 tdi power plant was increased from 3.7 to four liters in order to further optimize the engine that had already been very efficient. after testing various energy recovery systems, audi decided to compete in the class of up to two megajoules of recuperation energy at le mans. the energy exclusively flows through a motor generator unit (mgu) at the front axle and is stored in a flywheel energy storage system.
+source: audi press release
+
+
+engine: 4.0l v6 tdi hybrid
+weight: 870 kg / 1,918 lbs
+power: –
+0-62 mph: –
+torque: –
+top speed: –

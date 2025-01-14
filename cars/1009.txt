@@ -1,0 +1,10 @@
+
+equipped with a 500 horsepower v10 engine, this fourth-generation m5 sets a new benchmark for powerful sports saloons. with a performance increase of more than 25 percent over the previous v8, the new v10 revs to 8,250 rpm and produces 500 hp and 384 lb-ft of torque. it is unusual to see a v10 configuration used for a series production car, as this was the only m5 to feature that setup.
+
+
+engine: 5.0l v10
+weight: 1,830 kg / 4,035 lbs
+power: 373 kw / 500 hp / 507 ps
+0-60 mph: 4.6 seconds
+torque: 520 nm / 384 lb-ft
+top speed: 250 kph / 155 mph

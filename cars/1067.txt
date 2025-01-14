@@ -1,0 +1,12 @@
+
+introduced in may 1972, the 3.0 csl was a homologation special built to make the car eligible for racing in the european touring car championship. the “l” in the designation meant leicht (light), unlike in other bmw designations, where it meant lang (long). the lightness was achieved by using thinner steel to build the unit body, deleting the trim and soundproofing, using aluminium alloy doors, bonnet, and boot lid, and using perspex side windows.
+initially using the same engine as the 3.0 cs, the 3.0 csl was given a very small increase in displacement to 3,003 cc by increasing the engine bore by one quarter of a millimetre. this was done in august 1972 to allow the csl to be raced in the “over three litre” racing category, allowing for some increase in displacement in the racing cars. in 1973, the engine in the 3.0 csl was given another, more substantial increase in displacement to 3,153 cc by increasing the stroke to 84 mm. this final version of the 3.0 csl was homologated in july 1973 along with an aerodynamic package including a large air dam, short fins running along the front fenders, a spoiler above and behind the trailing edge of the roof, and a tall rear wing. the rear wings were not installed at the factory, but were left in the boot for installation after purchase. this was done because the wings were illegal for use on german roads. the full aero package earned the racing csls the nickname “batmobile”.
+source: wikipedia (original)
+
+
+engine: 3.2l inline 6
+weight: 1,250 kg / 2,755 lbs
+power: 151 kw / 203 hp / 205 ps
+0-62 mph: 7.1 seconds
+torque: 286 nm / 211 lb-ft
+top speed: 220 kph / 137 mph
