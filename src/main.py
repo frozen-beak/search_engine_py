@@ -21,7 +21,7 @@ tf_idf_matrix = compute_tf_idf(documents, idf)
 app = FastAPI()
 
 # Mount static files
-app.mount("/", StaticFiles(directory="./src/public", html=True), name="static")
+app.mount("/ui", StaticFiles(directory="./src/public", html=True), name="static")
 
 class CarResult(BaseModel):
     name: str
