@@ -21,7 +21,7 @@ tf_idf_matrix = compute_tf_idf(documents, idf)
 app = FastAPI()
 
 # Mount static files
-app.mount("/ui", StaticFiles(directory="./src/public", html=True), name="static")
+app.mount("/", StaticFiles(directory="./src/public", html=True), name="static")
 
 class CarResult(BaseModel):
     name: str
@@ -66,7 +66,7 @@ def parse_specifications(specs_text):
             spec_dict[key] = value
     return spec_dict
 
-@app.get("/")
+@app.get("/api/")
 def index(query:str):
     results = search(query, documents, idf, tf_idf_matrix, top_n=5)
     

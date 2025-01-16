@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TurboZ</title>
+    <link rel="icon" href="logo.png" type="image/x-icon" />
+  </head>
+  <body>
+    <div id="search-div" class="search-div radius3">
+      <img src="./logo.png" alt="ZeroTab" width="24" height="24" />
+      <input
+        spellcheck="true"
+        id="search-input"
+        type="text"
+        placeholder="Search, e.g. Porsche 911"
+        autocomplete="off"
+      />
+      <button class="bText radius1" id="settings">&nbsp;&#xeb68;&nbsp;</button>
+    </div>
+
+    <div style="height: 28px"></div>
+
+    <div class="result radius3">
+      <a href="#" class="body1">Porsche 911 GT3 RS</a>
+      <p class="text1">
+        as one of the most fearsome looking racing cars ever, the audi 90
+        quattro imsa gto has become an icon.
+      </p>
+      <div class="specs text2">
+        <p>engine: 2.2l inline 5 turbo</p>
+        <p>weight: 1,207 kg / 2,661 lbs</p>
+        <p>power: 530 kw / 710 hp / 720 ps</p>
+        <p>0-62 mph: –</p>
+        <p>torque: 720 nm / 531 lb-ft</p>
+        <p>top speed: –</p>
+      </div>
+    </div>
+
+    <div class="result radius3">
+      <a href="#" class="body1">Porsche 911 GT3 RS</a>
+      <p class="text1">
+        as one of the most fearsome looking racing cars ever, the audi 90
+        quattro imsa gto has become an icon.
+      </p>
+      <div class="specs text2">
+        <p>engine: 2.2l inline 5 turbo</p>
+        <p>weight: 1,207 kg / 2,661 lbs</p>
+        <p>power: 530 kw / 710 hp / 720 ps</p>
+        <p>0-62 mph: –</p>
+        <p>torque: 720 nm / 531 lb-ft</p>
+        <p>top speed: –</p>
+      </div>
+    </div>
+
+    <div class="result radius3">
+      <a href="#" class="body1">Porsche 911 GT3 RS</a>
+      <p class="text1">
+        as one of the most fearsome looking racing cars ever, the audi 90
+        quattro imsa gto has become an icon.
+      </p>
+      <div class="specs text2">
+        <p>engine: 2.2l inline 5 turbo</p>
+        <p>weight: 1,207 kg / 2,661 lbs</p>
+        <p>power: 530 kw / 710 hp / 720 ps</p>
+        <p>0-62 mph: –</p>
+        <p>torque: 720 nm / 531 lb-ft</p>
+        <p>top speed: –</p>
+      </div>
+    </div>
+
+    <div class="result radius3">
+      <a href="#" class="body1">Porsche 911 GT3 RS</a>
+      <p class="text1">
+        as one of the most fearsome looking racing cars ever, the audi 90
+        quattro imsa gto has become an icon.
+      </p>
+      <div class="specs text2">
+        <p>engine: 2.2l inline 5 turbo</p>
+        <p>weight: 1,207 kg / 2,661 lbs</p>
+        <p>power: 530 kw / 710 hp / 720 ps</p>
+        <p>0-62 mph: –</p>
+        <p>torque: 720 nm / 531 lb-ft</p>
+        <p>top speed: –</p>
+      </div>
+    </div>
+
+    <div class="result radius3">
+      <a href="#" class="body1">Porsche 911 GT3 RS</a>
+      <p class="text1">
+        as one of the most fearsome looking racing cars ever, the audi 90
+        quattro imsa gto has become an icon.
+      </p>
+      <div class="specs text2">
+        <p>engine: 2.2l inline 5 turbo</p>
+        <p>weight: 1,207 kg / 2,661 lbs</p>
+        <p>power: 530 kw / 710 hp / 720 ps</p>
+        <p>0-62 mph: –</p>
+        <p>torque: 720 nm / 531 lb-ft</p>
+        <p>top speed: –</p>
+      </div>
+    </div>
+  </body>
+
+  <style>
+    body {
+      width: 100%;
+      min-height: 90vh;
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: center;
+      padding: calc(40 * var(--base-space)) 0px;
+
+      background-color: var(--c-bg);
+    }
+
+    .search-div {
+      background-color: var(--c-secBg);
+
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+
+      gap: calc(1.5 * var(--base-space));
+      padding: calc(1.25 * var(--base-space)) calc(1.5 * var(--base-space));
+
+      width: 40%;
+      max-height: 48%;
+    }
+
+    .search-div input {
+      flex-grow: 1;
+    }
+
+    .result {
+      background-color: var(--c-onBg);
+
+      width: 40%;
+      margin: calc(1.25 * var(--base-space)) 0px;
+      padding: calc(1.25 * var(--base-space)) calc(1.5 * var(--base-space));
+
+      display: flex;
+      flex-flow: column nowrap;
+
+      gap: calc(2 * var(--base-space));
+    }
+
+    .result .specs {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: calc(0.5 * var(--base-space));
+    }
+  </style>
+
+  <style>
+    /* ------------ Typefaces ------------ */
+
+    @font-face {
+      font-family: "JetBrainsMonoNF";
+      src: url("./fonts/JetBrainsMonoNF-300.woff2") format("woff2");
+      font-weight: 300;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: "JetBrainsMonoNF";
+      src: url("./fonts/JetBrainsMonoNF-400.woff2") format("woff2");
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    /* ------------ Global Styles ------------ */
+
+    :root {
+      /* Typefaces */
+      --jbMono-nf: "JetBrainsMonoNF", monospace;
+
+      /* Available Font Weights */
+      --font-light: 300;
+      --font-regular: 400;
+
+      /* Colors (Default to DarkTheme) */
+      --c-bg: #f8f9fa;
+      --c-secBg: #e9ecef;
+      --c-onBg: rgba(233, 236, 239, 0.24);
+      --c-primary: #212529;
+      --c-secondary: #495057;
+      --c-tertiary: #6c757d;
+      --c-accent: #42a0fd;
+
+      /* Typography */
+      --base-font-size: 1rem;
+      --base-line-height-multiplier: 1.3;
+
+      /* Font Sizes */
+      --font-size12: calc(12 / 16 * 1rem);
+      --font-size14: calc(14 / 16 * 1rem);
+      --font-size16: calc(16 / 16 * 1rem);
+      --font-size16: calc(18 / 18 * 1rem);
+      --font-size20: calc(20 / 16 * 1rem);
+
+      /* Line Heights */
+      --line-height12: calc(
+        12 / 16 * var(--base-line-height-multiplier) * 1rem
+      );
+      --line-height14: calc(
+        14 / 16 * var(--base-line-height-multiplier) * 1rem
+      );
+      --line-height16: calc(
+        16 / 16 * var(--base-line-height-multiplier) * 1rem
+      );
+      --line-height18: calc(
+        18 / 18 * var(--base-line-height-multiplier) * 1rem
+      );
+      --line-height20: calc(
+        20 / 16 * var(--base-line-height-multiplier) * 1rem
+      );
+
+      /* Spacing */
+      --base-space: 0.5rem;
+
+      /* Radius */
+      --base-radius: 0.5rem;
+    }
+
+    /* Applied to every element */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    /* ------------ Text Styles ------------ */
+
+    .bText {
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size18);
+      font-weight: var(--font-regular);
+      line-height: var(--line-height18);
+    }
+
+    .body1 {
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size16);
+      font-weight: var(--font-regular);
+      line-height: var(--line-height16);
+    }
+
+    .body2 {
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size16);
+      font-weight: var(--font-light);
+      line-height: var(--line-height16);
+    }
+
+    .text1 {
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size14);
+      font-weight: var(--font-regular);
+      line-height: var(--line-height14);
+    }
+
+    .text2 {
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size12);
+      font-weight: var(--font-regular);
+      line-height: var(--line-height12);
+    }
+
+    /* ------------ Radius ------------ */
+
+    .radius1 {
+      border-radius: calc(0.5 * var(--base-radius));
+    }
+
+    .radius2 {
+      border-radius: calc(1 * var(--base-radius));
+    }
+
+    .radius3 {
+      border-radius: calc(2 * var(--base-radius));
+    }
+
+    .radius4 {
+      border-radius: calc(3 * var(--base-radius));
+    }
+
+    /* ------------ Inputs ------------ */
+
+    input[type="text"] {
+      background-color: transparent;
+      border: 0px;
+
+      color: var(--c-primary);
+
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size16);
+      line-height: var(--line-height16);
+      font-weight: var(--font-regular);
+    }
+
+    input[type="text"]:focus {
+      outline: 0px;
+    }
+
+    input[type="text"]::placeholder {
+      color: var(--c-tertiary);
+
+      font-size: var(--font-size16);
+      line-height: var(--line-height16);
+      font-weight: var(--font-regular);
+    }
+
+    /* ------------ Buttons ------------ */
+
+    button {
+      border: 0px;
+      background-color: transparent;
+    }
+
+    button:hover {
+      cursor: pointer;
+      background-color: var(--c-primary);
+      color: var(--c-bg);
+    }
+
+    /* ------------ Scrollbar ------------ */
+
+    /* The scrollbar's width */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+
+    /* The background of the scrollbar track */
+    ::-webkit-scrollbar-track {
+      background: var(--c-onBg);
+      /* border-radius: 2px; */
+    }
+
+    /* The handle (thumb) of the scrollbar */
+    ::-webkit-scrollbar-thumb {
+      background: var(--c-secBg);
+      border-radius: 2px;
+    }
+
+    /* The thumb on hover */
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--c-bg);
+    }
+  </style>
+</html>
