@@ -1,0 +1,23 @@
+name: Health Check
+
+on:
+  schedule:
+    - cron: "*/10 * * * *" # run every 10 min
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Check server health
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" https://turboz.onrender.com/api/health)
+          if [ "$response" -eq 200 ]; then
+            echo "Server is healthy"
+            echo "STATUS=healthy" >> $GITHUB_ENV
+          else
+            echo "Server is unhealthy"
+            echo "STATUS=unhealthy" >> $GITHUB_ENV
+            exit 1
+          fi
