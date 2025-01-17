@@ -120,13 +120,15 @@
     </script>
   </head>
   <body id="body">
-    <h1 class="title1">TurboZ</h1>
+    <h1 class="title1 heading">
+      Turbo <img src="./logo.png" alt="ZeroTab" width="24" height="24" />
+    </h1>
+
     <div style="height: 12px"></div>
     <h2 class="title2">Your Awesome Car Search</h2>
     <div style="height: 24px"></div>
 
     <div id="search-div" class="search-div radius3">
-      <img src="./logo.png" alt="ZeroTab" width="24" height="24" />
       <input
         spellcheck="true"
         id="search-input"
@@ -151,9 +153,23 @@
       display: flex;
       flex-flow: column nowrap;
       align-items: center;
-      padding: calc(40 * var(--base-space)) 0px;
+      padding: calc(36 * var(--base-space)) 0px;
 
       background-color: var(--c-bg);
+    }
+
+    .heading {
+      width: 40%;
+
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .heading img {
+      width: calc(4 * var(--base-space));
+      height: calc(4 * var(--base-space));
     }
 
     .search-div {
@@ -280,7 +296,7 @@
       --font-size16: calc(16 / 16 * 1rem);
       --font-size18: calc(18 / 16 * 1rem);
       --font-size20: calc(20 / 16 * 1rem);
-      --font-size24: calc(24 / 16 * 1rem);
+      --font-size28: calc(28 / 16 * 1rem);
 
       /* Line Heights */
       --line-height12: calc(
@@ -298,8 +314,8 @@
       --line-height20: calc(
         20 / 16 * var(--base-line-height-multiplier) * 1rem
       );
-      --line-height24: calc(
-        24 / 16 * var(--base-line-height-multiplier) * 1rem
+      --line-height28: calc(
+        28 / 16 * var(--base-line-height-multiplier) * 1rem
       );
 
       /* Spacing */
@@ -320,9 +336,9 @@
 
     .title1 {
       font-family: var(--jbMono-nf);
-      font-size: var(--font-size24);
+      font-size: var(--font-size28);
       font-weight: var(--font-bold);
-      line-height: var(--line-height24);
+      line-height: var(--line-height28);
     }
 
     .title2 {
