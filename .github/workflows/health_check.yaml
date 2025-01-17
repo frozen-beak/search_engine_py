@@ -2,7 +2,7 @@ name: Health Check
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # run every 10 min
+    - cron: "*/15 * * * *" # run every 15 min
   workflow_dispatch:
 
 jobs:
