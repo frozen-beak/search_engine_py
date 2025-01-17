@@ -23,13 +23,8 @@ BRANDS = [
     "lamborghini",
     "audi",
     "porsche",
-    "nissan",
-    "toyota",
-    "honda",
-    "Bugatti",
     "bmw",
     "mercedes-benz",
-    "pagani",
 ]
 
 
