@@ -5,10 +5,11 @@ from search import SearchEngine
 app = FastAPI()
 searchEngine = SearchEngine()
 
-# Mount static files
-app.mount("/ui", StaticFiles(directory="./src/public", html=True), name="static")
-
-
-@app.get("/api/")
+@app.get("/api/search")
 def index(query: str):
     return searchEngine.perform_search(query)
+
+
+# Mount static files
+app.mount("/", StaticFiles(directory="./src/public", html=True), name="static")
+
