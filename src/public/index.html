@@ -40,6 +40,19 @@
         /* Typefaces */
         --jbMono-nf: "JetBrainsMonoNF", monospace;
 
+        /* Spacing */
+        --base-space: 0.5rem;
+
+        /* Radius */
+        --base-radius: 0.5rem;
+
+        /* Font Size */
+        --default-font-size: 16;
+        --base-font-size: var(--default-font-size);
+
+        /* Typography */
+        --base-line-height-multiplier: 1.3;
+
         /* Available Font Weights */
         --font-light: 300;
         --font-regular: 400;
@@ -54,43 +67,33 @@
         --c-tertiary: #6c757d;
         --c-accent: #42a0fd;
 
-        /* Typography */
-        --base-font-size: 1rem;
-        --base-line-height-multiplier: 1.3;
-
         /* Font Sizes */
-        --font-size12: calc(12 / 16 * 1rem);
-        --font-size14: calc(14 / 16 * 1rem);
-        --font-size16: calc(16 / 16 * 1rem);
-        --font-size18: calc(18 / 16 * 1rem);
-        --font-size20: calc(20 / 16 * 1rem);
-        --font-size28: calc(28 / 16 * 1rem);
+        --font-size12: calc(12 / var(--base-font-size) * 1rem);
+        --font-size14: calc(14 / var(--base-font-size) * 1rem);
+        --font-size16: calc(16 / var(--base-font-size) * 1rem);
+        --font-size18: calc(18 / var(--base-font-size) * 1rem);
+        --font-size20: calc(20 / var(--base-font-size) * 1rem);
+        --font-size28: calc(28 / var(--base-font-size) * 1rem);
 
         /* Line Heights */
         --line-height12: calc(
-          12 / 16 * var(--base-line-height-multiplier) * 1rem
+          12 / var(--base-font-size) * var(--base-line-height-multiplier) * 1rem
         );
         --line-height14: calc(
-          14 / 16 * var(--base-line-height-multiplier) * 1rem
+          14 / var(--base-font-size) * var(--base-line-height-multiplier) * 1rem
         );
         --line-height16: calc(
-          16 / 16 * var(--base-line-height-multiplier) * 1rem
+          16 / var(--base-font-size) * var(--base-line-height-multiplier) * 1rem
         );
         --line-height18: calc(
-          18 / 16 * var(--base-line-height-multiplier) * 1rem
+          18 / var(--base-font-size) * var(--base-line-height-multiplier) * 1rem
         );
         --line-height20: calc(
-          20 / 16 * var(--base-line-height-multiplier) * 1rem
+          20 / var(--base-font-size) * var(--base-line-height-multiplier) * 1rem
         );
         --line-height28: calc(
-          28 / 16 * var(--base-line-height-multiplier) * 1rem
+          28 / var(--base-font-size) * var(--base-line-height-multiplier) * 1rem
         );
-
-        /* Spacing */
-        --base-space: 0.5rem;
-
-        /* Radius */
-        --base-radius: 0.5rem;
       }
 
       /* Applied to every element */
@@ -261,7 +264,7 @@
         placeholder="Search, e.g. Porsche 911"
         autocomplete="off"
       />
-      <button class="bText radius1" id="settings" onclick="search()">
+      <button class="bText radius2" id="settings" onclick="search()">
         &#xf422;
       </button>
     </div>
@@ -305,8 +308,6 @@
     }
 
     .heading {
-      width: 40%;
-
       display: flex;
       flex-flow: row nowrap;
       justify-content: center;
@@ -316,6 +317,15 @@
     .heading img {
       width: calc(4 * var(--base-space));
       height: calc(4 * var(--base-space));
+    }
+
+    /* Default width */
+    .heading,
+    .search-div,
+    .result,
+    .loader {
+      width: 40%;
+      max-width: 504px;
     }
 
     .search-div {
@@ -339,7 +349,6 @@
     .result {
       background-color: var(--c-onBg);
 
-      width: 40%;
       margin: calc(1.25 * var(--base-space)) 0px;
       padding: calc(1.25 * var(--base-space)) calc(1.5 * var(--base-space));
 
@@ -368,7 +377,6 @@
     .loader {
       background-color: var(--c-secBg);
 
-      width: 40%;
       height: calc(20 * var(--base-space));
       margin: calc(1.25 * var(--base-space)) 0px;
 
@@ -381,6 +389,79 @@
       }
       100% {
         background-color: var(--c-onBg);
+      }
+    }
+
+    /* Desktop (992px to 1199px) */
+    @media (min-width: 992px) and (max-width: 1199px) {
+      /* Reset base font size back to default */
+      :root {
+        --base-font-size: var(--default-font-size);
+      }
+
+      .heading,
+      .search-div,
+      .result,
+      .loader {
+        width: 50%;
+      }
+    }
+
+    /* Tablet (768px to 991px) */
+    @media (min-width: 768px) and (max-width: 991px) {
+      /* Reset base font size back to default */
+      :root {
+        --base-font-size: var(--default-font-size);
+      }
+
+      .heading,
+      .search-div,
+      .result,
+      .loader {
+        width: 65%;
+      }
+    }
+
+    /* Large mobile (576px to 767px) */
+    @media (min-width: 576px) and (max-width: 767px) {
+      /* Reset base font size back to default */
+      :root {
+        --base-font-size: var(--default-font-size);
+      }
+
+      .heading,
+      .search-div,
+      .result,
+      .loader {
+        width: 80%;
+      }
+    }
+
+    /* Small mobile (up to 575px) */
+    @media (max-width: 575px) {
+      /* Scale down font sizes for mobile devices */
+      :root {
+        --base-font-size: 18;
+        --base-line-height-multiplier: 1.4;
+      }
+
+      .heading,
+      .search-div,
+      .result,
+      .loader {
+        width: 90%;
+      }
+
+      body {
+        padding: calc(24 * var(--base-space)) 0px;
+      }
+
+      .search-div {
+        padding: calc(1 * var(--base-space)) calc(1.25 * var(--base-space));
+      }
+
+      .result {
+        padding: calc(1 * var(--base-space)) calc(1.25 * var(--base-space));
       }
     }
   </style>
