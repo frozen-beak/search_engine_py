@@ -5,8 +5,126 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TurboZ</title>
     <link rel="icon" href="logo.png" type="image/x-icon" />
+
+    <script>
+      let isSearching = false;
+
+      const search = () => {
+        const query = document.getElementById("search-input").value.trim();
+
+        // Don't search if the input is empty
+        if (!query) return;
+
+        // debounce if already searching
+        if (isSearching) return;
+
+        // do not allow new searches
+        isSearching = true;
+
+        // Clear existing results
+        clearResults();
+
+        // show loading div
+        showLoader();
+
+        fetch(`/api/?query=${encodeURIComponent(query)}`)
+          .then((res) => res.json())
+          .then((results) => {
+            // clear loading div
+            deleteLoader();
+
+            // Render new results
+            renderResults(results);
+
+            // allow for new search
+            isSearching = false;
+          })
+          .catch((error) => {
+            console.error("Error fetching results:", error);
+          });
+      };
+
+      // delete all the rendered results
+      const clearResults = () => {
+        const results = document.querySelectorAll(".result");
+
+        results?.forEach((result) => {
+          result.remove();
+        });
+      };
+
+      const showLoader = () => {
+        const body = document.getElementById("body");
+
+        for (let i = 0; i < 3; i++) {
+          const loader = document.createElement("div");
+          loader.className = "loader radius3";
+
+          // append the loader in the [body]
+          body.appendChild(loader);
+        }
+      };
+
+      const deleteLoader = () => {
+        const loaders = document.querySelectorAll(".loader");
+
+        loaders?.forEach((loader) => {
+          loader.remove();
+        });
+      };
+
+      const renderResults = (results) => {
+        const body = document.getElementById("body");
+
+        results.forEach((result) => {
+          const resultDiv = document.createElement("div");
+          resultDiv.className = "result radius3";
+
+          const title = document.createElement("a");
+          title.href = result.link;
+          title.className = "body1";
+          title.textContent = result.name;
+
+          const description = document.createElement("p");
+          description.className = "text1 desc";
+          description.textContent = result.desc;
+
+          const specs = document.createElement("div");
+          specs.className = "specs text2";
+
+          const engine = document.createElement("p");
+          engine.textContent = `engine: ${result.engine}`;
+
+          const weight = document.createElement("p");
+          weight.textContent = `weight: ${result.weight}`;
+
+          const power = document.createElement("p");
+          power.textContent = `power: ${result.power}`;
+
+          const zeroToSixty = document.createElement("p");
+          zeroToSixty.textContent = `0-62 mph: ${result.zero_to_sixty || "–"}`;
+
+          const torque = document.createElement("p");
+          torque.textContent = `torque: ${result.torque}`;
+
+          const topSpeed = document.createElement("p");
+          topSpeed.textContent = `top speed: ${result.top_speed || "–"}`;
+
+          specs.append(engine, weight, power, zeroToSixty, torque, topSpeed);
+          resultDiv.append(title, description, specs);
+
+          // append the result in the [body]
+          body.appendChild(resultDiv);
+        });
+      };
+    </script>
   </head>
-  <body>
+  <body id="body">
+    <h1 class="title1">TurboZ</h1>
+    <div style="height: 12px"></div>
+    <h2 class="title2">Your Awesome Car Search</h2>
+    <div style="height: 24px"></div>
+
     <div id="search-div" class="search-div radius3">
       <img src="./logo.png" alt="ZeroTab" width="24" height="24" />
       <input
@@ -16,90 +134,14 @@
         placeholder="Search, e.g. Porsche 911"
         autocomplete="off"
       />
-      <button class="bText radius1" id="settings">&nbsp;&#xeb68;&nbsp;</button>
+      <button class="bText radius1" id="settings" onclick="search()">
+        &#xf422;
+      </button>
     </div>
 
     <div style="height: 28px"></div>
 
-    <div class="result radius3">
-      <a href="#" class="body1">Porsche 911 GT3 RS</a>
-      <p class="text1">
-        as one of the most fearsome looking racing cars ever, the audi 90
-        quattro imsa gto has become an icon.
-      </p>
-      <div class="specs text2">
-        <p>engine: 2.2l inline 5 turbo</p>
-        <p>weight: 1,207 kg / 2,661 lbs</p>
-        <p>power: 530 kw / 710 hp / 720 ps</p>
-        <p>0-62 mph: –</p>
-        <p>torque: 720 nm / 531 lb-ft</p>
-        <p>top speed: –</p>
-      </div>
-    </div>
-
-    <div class="result radius3">
-      <a href="#" class="body1">Porsche 911 GT3 RS</a>
-      <p class="text1">
-        as one of the most fearsome looking racing cars ever, the audi 90
-        quattro imsa gto has become an icon.
-      </p>
-      <div class="specs text2">
-        <p>engine: 2.2l inline 5 turbo</p>
-        <p>weight: 1,207 kg / 2,661 lbs</p>
-        <p>power: 530 kw / 710 hp / 720 ps</p>
-        <p>0-62 mph: –</p>
-        <p>torque: 720 nm / 531 lb-ft</p>
-        <p>top speed: –</p>
-      </div>
-    </div>
-
-    <div class="result radius3">
-      <a href="#" class="body1">Porsche 911 GT3 RS</a>
-      <p class="text1">
-        as one of the most fearsome looking racing cars ever, the audi 90
-        quattro imsa gto has become an icon.
-      </p>
-      <div class="specs text2">
-        <p>engine: 2.2l inline 5 turbo</p>
-        <p>weight: 1,207 kg / 2,661 lbs</p>
-        <p>power: 530 kw / 710 hp / 720 ps</p>
-        <p>0-62 mph: –</p>
-        <p>torque: 720 nm / 531 lb-ft</p>
-        <p>top speed: –</p>
-      </div>
-    </div>
-
-    <div class="result radius3">
-      <a href="#" class="body1">Porsche 911 GT3 RS</a>
-      <p class="text1">
-        as one of the most fearsome looking racing cars ever, the audi 90
-        quattro imsa gto has become an icon.
-      </p>
-      <div class="specs text2">
-        <p>engine: 2.2l inline 5 turbo</p>
-        <p>weight: 1,207 kg / 2,661 lbs</p>
-        <p>power: 530 kw / 710 hp / 720 ps</p>
-        <p>0-62 mph: –</p>
-        <p>torque: 720 nm / 531 lb-ft</p>
-        <p>top speed: –</p>
-      </div>
-    </div>
-
-    <div class="result radius3">
-      <a href="#" class="body1">Porsche 911 GT3 RS</a>
-      <p class="text1">
-        as one of the most fearsome looking racing cars ever, the audi 90
-        quattro imsa gto has become an icon.
-      </p>
-      <div class="specs text2">
-        <p>engine: 2.2l inline 5 turbo</p>
-        <p>weight: 1,207 kg / 2,661 lbs</p>
-        <p>power: 530 kw / 710 hp / 720 ps</p>
-        <p>0-62 mph: –</p>
-        <p>torque: 720 nm / 531 lb-ft</p>
-        <p>top speed: –</p>
-      </div>
-    </div>
+    <!-- Search results go here -->
   </body>
 
   <style>
@@ -145,11 +187,39 @@
       gap: calc(2 * var(--base-space));
     }
 
+    .result .desc {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 3;
+      line-clamp: 3;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
     .result .specs {
       width: 100%;
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       gap: calc(0.5 * var(--base-space));
+    }
+
+    .loader {
+      background-color: var(--c-secBg);
+
+      width: 40%;
+      height: calc(20 * var(--base-space));
+      margin: calc(1.25 * var(--base-space)) 0px;
+
+      animation: flicker 1.5s infinite alternate;
+    }
+
+    @keyframes flicker {
+      0% {
+        background-color: var(--c-secBg);
+      }
+      100% {
+        background-color: var(--c-onBg);
+      }
     }
   </style>
 
@@ -172,6 +242,14 @@
       font-display: swap;
     }
 
+    @font-face {
+      font-family: "JetBrainsMonoNF";
+      src: url("./fonts/JetBrainsMonoNF-600.woff2") format("woff2");
+      font-weight: 600;
+      font-style: normal;
+      font-display: swap;
+    }
+
     /* ------------ Global Styles ------------ */
 
     :root {
@@ -181,6 +259,7 @@
       /* Available Font Weights */
       --font-light: 300;
       --font-regular: 400;
+      --font-bold: 600;
 
       /* Colors (Default to DarkTheme) */
       --c-bg: #f8f9fa;
@@ -199,8 +278,9 @@
       --font-size12: calc(12 / 16 * 1rem);
       --font-size14: calc(14 / 16 * 1rem);
       --font-size16: calc(16 / 16 * 1rem);
-      --font-size16: calc(18 / 18 * 1rem);
+      --font-size18: calc(18 / 16 * 1rem);
       --font-size20: calc(20 / 16 * 1rem);
+      --font-size24: calc(24 / 16 * 1rem);
 
       /* Line Heights */
       --line-height12: calc(
@@ -213,10 +293,13 @@
         16 / 16 * var(--base-line-height-multiplier) * 1rem
       );
       --line-height18: calc(
-        18 / 18 * var(--base-line-height-multiplier) * 1rem
+        18 / 16 * var(--base-line-height-multiplier) * 1rem
       );
       --line-height20: calc(
         20 / 16 * var(--base-line-height-multiplier) * 1rem
+      );
+      --line-height24: calc(
+        24 / 16 * var(--base-line-height-multiplier) * 1rem
       );
 
       /* Spacing */
@@ -235,11 +318,25 @@
 
     /* ------------ Text Styles ------------ */
 
+    .title1 {
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size24);
+      font-weight: var(--font-bold);
+      line-height: var(--line-height24);
+    }
+
+    .title2 {
+      font-family: var(--jbMono-nf);
+      font-size: var(--font-size14);
+      font-weight: var(--font-regular);
+      line-height: var(--line-height14);
+    }
+
     .bText {
       font-family: var(--jbMono-nf);
-      font-size: var(--font-size18);
+      font-size: var(--font-size16);
       font-weight: var(--font-regular);
-      line-height: var(--line-height18);
+      line-height: var(--line-height16);
     }
 
     .body1 {
@@ -319,6 +416,11 @@
     button {
       border: 0px;
       background-color: transparent;
+
+      padding-left: calc(1.25 * var(--base-space));
+      padding-right: calc(1.8 * var(--base-space));
+      padding-top: calc(0.6 * var(--base-space));
+      padding-bottom: calc(0.6 * var(--base-space));
     }
 
     button:hover {
