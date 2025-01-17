@@ -1,1 +1,11 @@
 
+utilising technology from the porsche 918 spyder, the panamera turbo s e-hybrid combines the 4.0l twin turbo v8 from the normal panamera turbo and adds a 100 kw electric motor. the combined power output is a mighty 500 kw (680 hp), making this a very fast grand tourer capable of mixing it with some supercars. 
+the car can by driven in e-power mode which will only use the electric motor to enable quiet cruising around town with a distance of up to 50 kilometres. the transmission is an 8-speed pdk unit, sending power to porsche’s adaptive all-wheel drive system which makes use of porsche traction management to help keep all that power in check.
+
+
+engine: v8 twin turbo hybrid
+weight: –
+power: 508 kw / 681 hp / 690 ps
+0-62 mph: 3.4 seconds
+torque: –
+top speed: 310 kph / 192 mph

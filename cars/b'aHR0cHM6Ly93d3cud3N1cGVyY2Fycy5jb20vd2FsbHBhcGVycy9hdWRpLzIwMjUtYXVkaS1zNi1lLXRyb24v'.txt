@@ -1,10 +1,1 @@
 
-new audi s6 focuses on low drag, and long range for its first foray into the electric world. with audi moving into transforming all its even numbered cars into ev’s and keeping the odd numbers as internal combustion for the time being, the a6/s6 line-up is no longer offering any ice version. the top of the line s6 gets all-wheel drive with two electric motors which combine for a peak output of 496 hp and accelerate the car from 0 to 60 mph in 3.7 seconds. with a drag coefficient of just 0.21, this is now the slipperiest model ever produced by audi, and capable of an wltp rated range of 398 miles for the s6 and 447 miles for the a6.
-
-
-motor: 2x electric @ 100 kwh
-weight: –
-power: 370 kw / 496 hp / 503 ps
-0-60 mph: 3.7 seconds
-torque: –
-top speed: 240 kph / 149 mph

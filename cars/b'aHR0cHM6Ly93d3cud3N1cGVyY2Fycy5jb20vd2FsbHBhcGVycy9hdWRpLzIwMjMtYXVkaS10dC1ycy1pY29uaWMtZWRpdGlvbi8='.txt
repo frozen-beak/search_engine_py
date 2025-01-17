@@ -1,11 +1,1 @@
 
-audi is celebrating a quarter-century of the tt coupe with the limited run tt rs iconic edition. equipped with the same 294 hp five-cylinder turbo engine as the regular tt rs, the iconic edition features some extra visual additions both inside and out. 
-“the name of the audi tt rs coupe iconic edition says it all,” says sebastian grams, managing director of audi sport gmbh. “the edition model is reminiscent of the iconic tt design language, which at the same time stands for courage and elegance in uncompromising form. thanks to the exclusive exterior and interior highlights, the much-loved performance of our ultimate sports coupe, with its multiple award-winning five-cylinder engine, is not only palpable, but also visible to fans.”
-
-
-engine: 2.5l inline 5 turbo
-weight: 1,475 kg / 3,252 lbs
-power: 294 kw / 394 hp / 400 ps
-0-62 mph: 3.7 seconds
-torque: 480 nm / 354 lb-ft
-top speed: 280 kph / 174 mph

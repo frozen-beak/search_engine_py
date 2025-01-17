@@ -1,13 +1,1 @@
 
-both porsche boxster and boxster s continue in 2008 with the larger, more potent engines they received in 2007.
-the porsche boxster is powered by a 2.7-liter horizontally opposed six cylinder that’s almost as potent as the engine that was in the first boxster s: 245 horsepower at 6500 rpm. the engine makes 201 lb.-ft. of torque over 4600 rpm to 6000 rpm. when mated to the standard five-speed manual gearbox, the engine propels the porsche boxster to 60 mph from a start in 5.8 seconds. when equipped with the tiptronic s transmission, the porsche boxster gets to 60 mph in 6.7 seconds. top speed at the test track is 160 mph (258 kmph).
-the porsche boxster s carries a 3.4-liter flat six that develops 295 horsepower and 251 lb.-ft. of torque from 4400 rpm to 6000 rpm. that’s enough to scoot the boxster s from zero to 60 mph in 5.1 seconds when equipped with a manual gearbox and a blistering 5.8 seconds when equipped with the tiptronic s.
-source: porsche press release
-
-
-engine: 3.4l flat 6
-weight: 1,295 kg / 2,855 lbs
-power: 179 kw / 240 hp / 243 ps
-0-62 mph: 6.1 seconds
-torque: 260 nm / 192 lb-ft
-top speed: 256 kph / 159 mph

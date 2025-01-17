@@ -1,11 +1,1 @@
 
-audi’s electric e-tron family has a new top dog, the 636 hp rs model featuring styling very similar to the original 2018 concept car. launched alongside the lower spec e-tron gt quattro, the rs has more power and torque at it’s disposal but sacrifices a little bit of range for the privilege.
-equipped with two electric motors positioned on each axle, the audi rs e-tron gt boasts a peak power output of 636 hp when an overboost function is enabled. that will only last for 2.5 seconds at a time though, so the real power number is 589 hp and 612 lb-ft of torque. the 0-60 mph performance is strong stopping the clock at 3.3 seconds, and the top speed is a modest 155 mph with the limiter engaged. the sacrifices in range is only a small one in reality, with the rs having an official wltp range of 293 miles compared to the 303 miles of the quattro model. note that these range quotes may not reflect real-world driving.
-
-
-motor: 2x electric @ 85 kwh
-weight: –
-power: 474 kw / 636 hp / 645 ps
-0-62 mph: 3.3 seconds
-torque: 830 nm / 612 lb-ft
-top speed: 250 kph / 155 mph

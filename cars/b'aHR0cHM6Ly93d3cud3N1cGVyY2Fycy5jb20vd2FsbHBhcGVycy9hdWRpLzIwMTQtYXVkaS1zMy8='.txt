@@ -1,13 +1,1 @@
 
-the third-generation audi s3 raises the bar once again. scheduled to launch in early 2013, the lightweight premium compact model combines its dynamic performance with groundbreaking efficiency and comes packed with all the high-tech audi has to offer in every field of technology.
-the long-stroke 2.0 tfsi in the audi s3 has been developed from scratch. the only thing it has in common with its predecessor, which was named engine of the year five times in a row between 2005 and 2009, is its displacement of 1,984 cc (bore x stroke 82.5 x 92.8 millimeters [3.25 x 3.65 in]). the four-cylinder unit delivers a constant 380 nm / 280.27 lb-ft) of torque to the crankshaft between 1,800 and 5,500 rpm. rated power at 5,500 rpm is 221 kw / 300 hp), and the engine redlines at 6,800 rpm.
-the audi s3 delivers impressive performance. the sprint from zero to 100 km/h (62.14 mph) is completed in 5.1 seconds when equipped with the s tronic (5.4 seconds with the manual transmission). the electronically governed top speed of 250 km/h (155.34 mph) is just a formality. the s3 with s tronic consumes on average just 6.9 liters of fuel per 100 km (manual: 7.0 liters) [34.09 and 33.60 us mpg]. this corresponds to co2 emissions 159 (162) grams per kilometer (255.89 and 260.17 g/mile) and for models equipped with the manual transmission, an improvement of 1.5 liters compared with the previous version.
-source: audi press release
-
-
-engine: 2.0l inline 4 turbo
-weight: 1,395 kg / 3,075 lbs
-power: 221 kw / 296 hp / 300 ps
-0-62 mph: 5.1 seconds
-torque: 380 nm / 280 lb-ft
-top speed: 250 kph / 155 mph

@@ -1,11 +1,1 @@
 
-porsche have done a back flip and returned to the glorious 4.0l flat 6 engine for the 2020 boxster gts. using a detuned version of the 6 cylinder engine found in the cayman gt4 and boxster spyder, porsche have decided the 2.5l inline 4 turbo engines weren’t up to scratch for their gts spec 718 line-up. this was a move many saw coming since the engines inclusion in the gt4 and spyder. due to the cost of developing the flat 6 it made sense for porsche to widen it’s offering to re-coup the investment.
-peak power has been rated at 400 ps (294 kw), with 295 lb-ft (400 nm) of torque. at the time of launch only a 6-speed manual transmission will be offered maintaining the companies direction of aiming these cars more towards the purists. as is usual with gts models, a lot of porsche’s extra goodies come as standard equipment. the ride height has been dropped by 20mm, the wheels are large 20-inch units and porsche’s sport chassis and active dampers are also part of the mix. torque vectoring and a mechanical limited-slip diff are welcome additions, with smoked lights and bespoke bumpers finishing off the special touches.
-
-
-engine: 4.0l flat 6
-weight: 1,480 kg / 3,263 lbs
-power: 294 kw / 394 hp / 400 ps
-0-62 mph: 4.5 seconds
-torque: 400 nm / 295 lb-ft
-top speed: 293 kph / 182 mph

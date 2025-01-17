@@ -1,13 +1,1 @@
 
-at the start of 2016 at the north american international auto show in  detroit, porsche is presenting another highlight of its product range. the top models of the 911 model series – the porsche 911 turbo and 911 turbo s – now boast 15 kw / 20 hp more power, a sharpened design and improved features. the models will be available in both coupe and convertible versions from the start. the bi-turbo six-cylinder engine in the 911 turbo with 3.8 litres of displacement now has a power output of  397 kw / 540 hp. this power gain was achieved by modified inlet ports in the cylinder head, new injection nozzles and higher fuel pressure. the porsche 911 turbo s now develops 427 kw / 580 hp thanks to new turbochargers with larger compressors.
-the engines now also have what is known as a dynamic boost function to further improve engine response in dynamic operation. it maintains the charge pressure during load changes – i.e. when the accelerator pedal is released briefly. this is achieved by just interrupting fuel injection, whereas the throttle valve remains open. as a result, the engine reacts with practically no delay to another press of the accelerator pedal. the effects of this function are more pronounced in the sport and sport plus modes than in normal mode.
-overall, the new high-performance sports cars attain breathtaking driving performance, while fuel consumption is reduced even further. the porsche 911 turbo s coupé sprints to 100 km/h in 2.9 seconds. its top speed of 330 km/h is twelve km/h higher than before. the 911 turbo reaches the 100-km/h mark in 3.0 seconds, and its top speed is 320 km/h – five km/h faster than the previous model.
-source: porsche press release
-
-
-engine: 3.8l flat 6 twin turbo
-weight: –
-power: 427 kw / 573 hp / 580 ps
-0-62 mph: 2.9 seconds
-torque: –
-top speed: 330 kph / 205 mph

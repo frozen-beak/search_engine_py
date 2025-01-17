@@ -1,12 +1,1 @@
 
-the audi sport quattro was a quattro programme car developed for homologation for group b rallying in 1984, and sold as a production car in limited numbers. it featured an all aluminium alloy 2,133 cc (130.2 cu in) (2.1 l) 20v dohc engine slightly smaller than that of the audi quattro (in order to qualify for the 3-litre engine class after the scale factor applied to turbo engines). in road-going form the engine was capable of producing 225 kw / 306 ps/302 bhp), with the competition cars initially producing around 331 kw / 450 ps/444 bhp). the vehicle also featured a body shell composed of carbon-kevlar and boasting wider arches, wider wheels (nine inches as compared to the ur-quattro’s optional eight inch (203 mm) wide wheel rim), the steeper windscreen rake of the audi 80 (requested by the audi sport rally team drivers for improved visibility) and, most noticeably, a 320 mm (12.6 in) shorter wheelbase. this was carried out in order to improve handling potential in the face of newer, smaller competition, such as the lancia 037 and the peugeot 205 t16, which had been purpose-built from the start for group b rules.
-a total of 224 cars of this “short version” sport quattro were built, and were offered for sale at a heady price of 203,850 german marks.
-source: wikipedia (original)
-
-
-engine: 2.1l inline 5 turbo
-weight: 1,298 kg / 2,861 lbs
-power: 225 kw / 302 hp / 306 ps
-0-62 mph: 4.9 seconds
-torque: 350 nm / 258 lb-ft
-top speed: 250 kph / 155 mph

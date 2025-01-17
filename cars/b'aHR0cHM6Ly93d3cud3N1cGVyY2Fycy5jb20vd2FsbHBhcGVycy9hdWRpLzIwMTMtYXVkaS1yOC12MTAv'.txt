@@ -1,13 +1,1 @@
 
-audi has made its r8 high-performance sports car even more attractive and dynamic. the audi r8 v10 plus is a new top model in the model series, with a totally new 7-speed s tronic. the led headlights and the new rear indicator lights with dynamicized display are standard equipment on all variants.
-as in car racing, the aerodynamics of the audi r8 has been optimized for propulsion. the underfloor contains five naca nozzles, along with two diffusors in the front section, which increase the propulsion at the front axle. the drag coefficient is 0.35 or 0.36 depending on the engine version and body shape; the frontal area measures 1.99 m2 (21.42 ft2).
-the engines are assembled by hand. the v8 with 4,163 cc displacement and the v10 with its 5,204 cc displacement are captivating, naturally aspirated heavy-duty engines packed with power. the interplay with the new 7-speed s tronic has reduced co2 emissions by up to 22 grams/km (35.41 g/mile) and decreased the sprint from zero to 100 km/h (62.14 mph) by three-tenths of a second. both engines are compact and comparatively lightweight. the crankcase is an aluminum-silicon alloy; the bed plate structure provides high rigidity. the dry-sump lubrication allows low positioning of the engines; the pressure recirculation pump operates load-dependently, for increased efficiency.
-source: audi press release
-
-
-engine: 5.2l v10
-weight: 1,570 kg / 3,461 lbs
-power: 386 kw / 517 hp / 525 ps
-0-62 mph: 3.6 seconds
-torque: 530 nm / 390 lb-ft
-top speed: 311 kph / 193 mph

@@ -1,10 +1,1 @@
 
-ken block’s new pikes peak hillclimb racer is a contemporary take on the iconic audi sport quattro s1. called the s1 hoonitron, this all electric reinterpretation features a bespoke carbon fibre tub, two electric motors positioned on each axle and all-wheel drive. it was designed by audi design in ingolstadt combining elements from the original s1 with modern touches and contemporary design. the car is also set to feature in ken block’s next hoonigan video in 2022.
-
-
-motor: 2x electric
-weight: –
-power: –
-0-62 mph: –
-torque: –
-top speed: –

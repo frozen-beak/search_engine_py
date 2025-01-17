@@ -1,1 +1,10 @@
 
+facelifted porsche taycan gains more power, faster charging, longer range and greater dynamic capability. the subtle styling tweaks are a welcome addition, keeping the already good looking taycan nice on the eyes whilst adding a freshness to the overall look. this, the base model single motor rear-drive taycan, has received a little power boost of 27 hp and a bigger 97 kwh battery when equipped with the optional performance battery plus. range is now rated up to 421 miles thanks not only to the bigger battery but also to the more efficient powertrain and better optimised regen software and rolling resistance. fast charging has also gotten a boost with the 2025 taycan now capable of up to 320 kw peak charging speeds.
+
+
+motor: electric @ 97 kwh
+weight: –
+power: 320 kw / 429 hp / 435 ps
+0-62 mph: 4.8 seconds
+torque: –
+top speed: 250 kph / 155 mph

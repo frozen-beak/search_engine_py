@@ -1,12 +1,1 @@
 
-porsche introduced a refreshed 928 s into the european market in 1980 model year, although it was summer of 1982 and my 1983 before the model reached north america. externally, the s wore new front and rear spoilers and sported wider wheels and tires than the older variant, but the main change for the 928 s was under the hood, where a revised 4.7 l engine was used. european versions debuted with 300 ps (221 kw/297 hp), and were upgraded to 310 ps (228 kw/306 hp) for 1984 model year, though it is rumored that they typically made around 330 hp. from 1984 to 1986, the s model was called s2 in uk. these cars used bosch lh-jetronic fuel injection and purely electronic bosch ignition, the same systems used on the later 32-valve cars, though without the pollution controls. 
-north american-spec 1983 and 1984 s models used, among other differences, smaller valves, milder camshafts, smaller diameter intake manifolds, and additional pollution equipment in order to meet emissions regulations, and were limited to 234 hp (174 kw/230 ps) as a result. due to low grade fuel 16v low compression s engine was made for australian market in 1985 model year. it had 9.3:1 compression ratio pistons instead of normal 10.4:1 but used same large intake, high lift cams, large valves etc. of other s engines.
-source: wikipedia (original)
-
-
-engine: 4.7l v8
-weight: 1,500 kg / 3,307 lbs
-power: 221 kw / 297 hp / 300 ps
-0-62 mph: 6.6 seconds
-torque: 385 nm / 284 lb-ft
-top speed: 250 kph / 155 mph

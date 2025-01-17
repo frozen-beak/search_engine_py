@@ -1,12 +1,1 @@
 
-following on from the rs2 avant, the audi rs4 was only available in wagon form and was developed upon the b5 platform used by the audi a4 and s4. 6,030 units were produced by audi between 1999 and 2001.
-the rs4 was endowed with wider wheel arches to house the wide axle tracks and bigger tyres, this also proved beneficial to the looks of the car with a wider more aggressive stance. the bumpers and side sills were also changed from the s4, helping to achieve a low drag coefficient cd 0.34.
-the 2.7l bi turbo v6 engine featured 5 valves per cylinder, two parallel borgwarner k04-series turbochargers, two larger side-mounted intercoolers, dished piston crowns, stronger connecting rods, larger intake ducting, enlarged exhaust system, and a re-calibrated engine management system. with these modifications the power increase over the s4 was 114 hp and 40 nm of torque. a 6-speed manual transmission was used to put the power to the ground via the audi quattro all-wheel drive system.
-
-
-engine: 2.7l v6 twin turbo
-weight: 1,620 kg / 3,571 lbs
-power: 280 kw / 375 hp / 381 ps
-0-62 mph: 4.9 seconds
-torque: 440 nm / 324 lb-ft
-top speed: 279 kph / 173 mph

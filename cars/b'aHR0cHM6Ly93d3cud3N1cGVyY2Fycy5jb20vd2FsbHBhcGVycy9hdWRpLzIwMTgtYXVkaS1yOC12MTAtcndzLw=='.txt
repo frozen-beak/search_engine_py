@@ -1,11 +1,1 @@
 
-audi is now offering a new v10 r8 model with rear wheel drive, instead of the usual all-wheel drive, further diversifying the brands line-up. the removal of the all-wheel drive running gear has produced a weight saving of up to 50 kg, further cementing the cars performance capabilities. the r8 rws will be a limited edition run, with 999 units produced globally. each car made will feature a dashboard emblem “1 of 999,” indicating the limited number of units.
-“the r8 v10 rws is made for purists,” said stephan winkelmann, ceo of audi sport gmbh. “a limited-edition special model for customers with an appreciation for essential driving enjoyment, the r8 v10 rws is an absolutely exclusive offer. with its mid-mounted v10 engine and rear-wheel drive, it successfully brings the driving concept of our r8 lms racing car to the streets.”
-
-
-engine: 5.2l v10
-weight: 1,589 kg / 3,505 lbs
-power: 397 kw / 532 hp / 540 ps
-0-62 mph: 3.6 seconds
-torque: 541 nm / 399 lb-ft
-top speed: 320 kph / 199 mph

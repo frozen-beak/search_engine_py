@@ -1,10 +1,1 @@
 
-highlighting their participation in the dakar rally, audi have launched a special edition q8 e-tron called the dakar edition. fitted out with flared wheel arches, general grabber at3 all-terrain tires, increased ground clearance and improved approach, break-over, and departure angles, the q8 e-tron dakar has been given some proper off-roading capabilities. if won’t keep up with serious off-roaders, but should handle the rough stuff better than the regular q8.
-
-
-motor: 2x electric @ 106 kwh
-weight: –
-power: 300 kw / 402 hp / 408 ps
-0-62 mph: 5.8 seconds
-torque: 664 nm / 490 lb-ft
-top speed: 200 kph / 124 mph

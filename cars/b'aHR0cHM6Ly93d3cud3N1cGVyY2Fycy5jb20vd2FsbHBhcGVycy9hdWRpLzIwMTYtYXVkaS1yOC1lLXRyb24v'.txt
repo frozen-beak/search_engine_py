@@ -1,12 +1,1 @@
 
-the second edition of the r8 e-tron, audi has taken the all new r8 and had another go at electrifying it. unfortunately audi has decided not to build the e-tron, with hope it may happen at a later date.
-the electric range is quoted at 450 kilometers, with a energy density of 154 wh/kg and a low drag coefficient. the system is able to regenerate energy through harvesting  from the brakes.
-in the end the r8 e-tron remains a rolling tech laboratory for audi into the eventual move to full electric vehicles.
-
-
-motor: electric
-weight: –
-power: 340 kw / 456 hp / 462 ps
-0-62 mph: 3.9 seconds
-torque: 920 nm / 678 lb-ft
-top speed: –

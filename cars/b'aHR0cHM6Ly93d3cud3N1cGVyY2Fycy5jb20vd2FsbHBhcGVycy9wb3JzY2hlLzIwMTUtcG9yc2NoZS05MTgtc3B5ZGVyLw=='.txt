@@ -1,11 +1,1 @@
 
-the porsche 918 is one part of the automotive hypercar holy trinity from 2014-15 alongside the ferrari laferrari and the mclaren p1. those three cars were all developed at the same time and all represented the supercar companies taking the step into the world of hybrid powertrains for performance purposes. the porsche 918 spyder was praised around the world for it’s amazing performance and sure footed poise and handling, with many struggling to separate the three cars on the road and track. first revealed at the 2013 frankfurt motor show, the 918 spyder went on to start production on november 18, 2013 and finishing its run in june 2015. 
-porsche opted to pair their mid-engined naturally aspirated 4.6l v8 which developed 608 hp (453 kw), with two electric motors delivering an additional 279 hp (208 kw). the main electric motor powers the rear wheels in combination with the v8 engine, which both send power through a 7-speed pdk double-clutch transmission. the smaller front motor directly drives the front axle, with an electric clutch to decouple the motor when not in use. the 918 spyder made use of a 6.8 kwh lithium-ion battery pack that was capable of a rather short all-electric range of 19 kilometers (12 miles). recharging the battery is done by a plug-in system from mains power and also regenerative systems from braking and excess output from the engine.
-
-
-engine: 4.6l v8 hybrid
-weight: 1,640 kg / 3,615 lbs
-power: 652 kw / 874 hp / 886 ps
-0-60 mph: 2.1 seconds
-torque: 1280 nm / 944 lb-ft
-top speed: 343 kph / 213 mph

@@ -1,1 +1,13 @@
 
+porsche announced the new macan gts. with more power, a reengineered suspension, unique gts-specific exterior and interior appointments, and new connectivity options, the new macan gts provides an enthusiastic driving experience that enhances the current macan range.
+based on the 3.0-liter twin-turbocharged v6 engine in the macan s, the porsche macan gts incorporates hardware changes and a unique engine calibration to allow the engine to develop 360 hp at 6000 rpm and 369 lb-ft of torque between a broad 1650-4000 rpm. the rest of the all-wheel-drive powertrain matches up to the macan turbo; porsche’s seven-speed pdk dual-clutch transmission is combined with porsche’s traction management system (ptm) that actuates an electro-hydraulic, multi-plate clutch to variably engage the front axle depending on traction needs. all told, this powertrain package accelerates the macan gts to 60 mph in as little as 4.8s in conjunction with the optional sport chrono package and up to a top track speed of 159 mph.
+porsche’s stability management system is also recalibrated for this application, and when combined with the sport chrono package, it provides an even more dynamic driving experience. large 360 mm front rotors, with six-piston fixed calipers finished in red, and 330 mm rear rotors, with single-piston calipers also painted in red, provide the braking force needed for performance use and assist with torque vectoring, via porsche’s optional torque vectoring system (ptv).
+source: porsche press release
+
+
+engine: 3.0l flat 6 twin turbo
+weight: –
+power: 268 kw / 360 hp / 365 ps
+0-62 mph: 4.9 seconds
+torque: 500 nm / 369 lb-ft
+top speed: 255 kph / 159 mph

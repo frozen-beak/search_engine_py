@@ -1,11 +1,1 @@
 
-audi’s new top of the line suv is the rs q8, a 600 hp powerhouse that is essentially a lamborghini urus in drag. it shares the same 4.0l twin turbo v8 engine that produces 600 ps (441 kw) of power and 590 lb-ft (800 nm) of torque in this guise. that’s not far off it’s lamborghini cousin’s numbers, and results in a 0-62 mph acceleration of 3.8 seconds and 0-125 mph in 13.7 seconds. not bad for a heavy suv which tips the scales at over 5,000 lbs.
-the sporting credentials of the rs q8 don’t stop there, with audi claiming a 7m 42s lap time of the nurburgring nordschliefe. that is around 5 seconds faster than what the urus achieved. making use of that 600 horsepower is audi quattro permanent all-wheel-drive system, eight-speed tiptronic gearbox and mechanical centre differential. power and torque is distributed in a 40:60 split front to rear, with up to 75 percent able to power the front and 85 percent for the rears if slip is detected. five link suspension is used for all four corners with adaptive air suspension and active damping available as standard, allowing the rs q8 90mm of ride height variation.
-
-
-engine: 4.0l v8 twin turbo
-weight: 2,315 kg / 5,104 lbs
-power: 441 kw / 591 hp / 600 ps
-0-62 mph: 3.8 seconds
-torque: 800 nm / 590 lb-ft
-top speed: 304 kph / 189 mph

@@ -1,12 +1,1 @@
 
-in 1997, the new mercedes-benz clk-gtr was successful in the new fia gt championship that replaced the bpr, as it was developed for racing. mercedes did not enter le mans yet with their new car, though. the porsche did not prove to be as fast in the fia series, and failed to win a single race, first against the mclaren f1 gtr, and then against the new clk-gtr.
-towards the end of the 1996 season porsche made revisions to the 911 gt1 in preparation for the 1997 season. the front end of the car was revised including new bodywork which featured headlamps that previewed the all-new 2nd generation (996) porsche 911 which would appear in 1997. the revised car was known as the 911 gt1 evo (or evolution). as far as performance goes, the car had the same 600 ps (441 kw; 592 hp) turbo-charged engine, but new aerodynamics on the car allowed the ’97 car to be considerably faster than the 1996 model – acceleration was better, although the top speed was still around 330 km/h (205 mph) on the la sarthe circuit (in the race, the gt1-evo reached 326 km/h). however, the works cars suffered from reliability problems and did not last the full race distance; a privately entered 1996 specification gt1 managed 5th overall and third in its class, but was beaten by the bmw-backed and powered mclaren f1 gtrs.
-source: wikipedia (original)
-
-
-engine: 3.2l flat 6 twin turbo
-weight: 1,200 kg / 2,645 lbs
-power: 441 kw / 592 hp / 600 ps
-0-62 mph: 3.7 seconds
-torque: 600 nm / 442 lb-ft
-top speed: 280 kph / 174 mph

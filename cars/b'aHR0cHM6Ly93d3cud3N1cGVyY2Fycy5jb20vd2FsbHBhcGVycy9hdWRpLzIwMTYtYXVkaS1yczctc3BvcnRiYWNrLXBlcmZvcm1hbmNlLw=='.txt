@@ -1,12 +1,1 @@
 
-the new rs performance models are equipped with the most powerful version of the free-revving v8 biturbo power unit with a displacement of 3,993 cc. power output has been increased by 33 kw / 45 hp to 445 kw / 605 hp, which is available between 6,100 and 6,800 rpm. the maximum rpm has thus also been increased by 200 revs. a constant 700 nm / 516.3 lb-ft of torque is available between 1,750 and 6,000 rpm. a particular highlight of the engine is an overboost function allowing the driver to temporarily draw on up to 750 nm / 553.2 lb-ft between 2,500 and 5,500 rpm. overboost is activated automatically under full load if the engine/transmission setting is set to “dynamic” mode. the boost pressure indicator in the rs menu turns red when overboost is active.
-the standard eight-speed tiptronic has been designed for maximum sportiness in the new rs7 sportback performance. all gear changes are fast and flexible. the highly efficient oil pump and the heating of the transmission by the engine coolant during the warm-up phase contribute to the high efficiency of the classic torque-converter transmission. a hydraulic accumulator enables the start-stop function. the driver can choose between the modes d and s or change gears manually either by tapping the selector lever or by using the shift paddles on the rs multifunction sport leather steering wheel. in manual mode, a shift indicator in the driver information system (dis) or optional head-up display indicates the rev limit. while the lower gears of the tiptronic are closely spaced for sporty response, eighth gear is tall to reduce fuel consumption.
-source: audi press release
-
-
-engine: 4.0l v8 twin turbo
-weight: –
-power: 445 kw / 597 hp / 605 ps
-0-62 mph: 3.7 seconds
-torque: 750 nm / 553 lb-ft
-top speed: 280 kph / 174 mph

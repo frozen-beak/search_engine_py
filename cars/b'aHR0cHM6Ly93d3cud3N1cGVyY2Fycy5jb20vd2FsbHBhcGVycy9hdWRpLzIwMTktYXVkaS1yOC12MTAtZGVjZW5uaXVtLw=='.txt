@@ -1,11 +1,1 @@
 
-audi is celebrating 10 years of their v10 engine with the special edition audi r8 decennium. limited to just 222 units made, the r8 decennium will be available in 6 different colour shades which all feature bronze highlights. the intake manifold of the v10 and the large 20-inch wheels are both finished in matte bronze, with the front splitter, side gills, diffuser and exterior badges all getting the gloss black treatment and the side blades and mirror caps in carbonfibre.
-when audi first introduced their v10 engine back in 2009, it was the r8 5.2 fsi quattro that was the chosen platform. this saw the r8 deliver on it’s performance credentials after launching as a v8 only model. this first iteration v10 had 525 ps (386 kw) of power, now ten years later audi has upped the power output to 620 ps (456 kw). torque has also risen from 390 lb-ft (530 nm) to 427 lb-ft (580 nm). considering audi has resisted the temptation to go forced induction, the naturally aspirated v10 is a rare find in todays market and has benefited from power rises to keep up with the turbos.
-
-
-engine: 5.2l v10
-weight: –
-power: 456 kw / 611 hp / 620 ps
-0-62 mph: 3.1 seconds
-torque: 580 nm / 427 lb-ft
-top speed: 331 kph  / 205 mph

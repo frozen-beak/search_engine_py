@@ -1,12 +1,1 @@
 
-the audi e-tron gt concept has been unveiled, and represents a close replication of what the full production model will look like in 2020. and it’s a real head turner! audi is expanding their all-electric e-tron range, with the gt using the same platform as the upcoming porsche taycan and being a similar size and shape to the audi a7. the platform features rear-wheel steering, double wishbone suspension, electric torque vectoring and a very low centre of gravity.
-the 90 kwh battery pack is situated in the floor arranged in a wave like structure with the highest sections located under the seats, and he lowest under the foot wells. this allows for improved packaging and space, especially with the removal of the large engine at the front. the audi e-tron gt is powered by two synchronous electric motors placed on both the front and back axles. these motors combine to create a four-wheel drive system and with a combined power of 590 ps (434 kw) propel the e-tron gt from 0-62 mph in 3.5 seconds and 0-120 mph in around 12 seconds.
-audi is quoting the range from the 90 kwh battery to be nearly 250 miles (400 kilometers) and is capable charging to 80 percent in just 20 minutes with the built-in 800 volt system. also on the menu is a wireless charging option, with a inductive pad able to be installed on the floor of the owners garage.
-
-
-motor: 2x electric @ 90 kwh
-weight: –
-power: 434 kw / 582 hp / 590 ps
-0-62 mph: 3.5 seconds
-torque: –
-top speed: 240 kph / 149 mph

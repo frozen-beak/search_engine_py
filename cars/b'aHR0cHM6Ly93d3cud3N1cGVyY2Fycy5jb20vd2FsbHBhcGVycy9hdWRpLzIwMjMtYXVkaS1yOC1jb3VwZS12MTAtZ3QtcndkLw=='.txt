@@ -1,10 +1,1 @@
 
-after 12 years audi are bringing back the r8 gt, this time with over 600 horsepower as they send off their mighty v10 engine. the original audi r8 gt was launched in 2010 with the roadster coming a couple of years later in 2012. this new model follows the same path with a mid-mounted 5.2l v10 now producing 611 hp and 417 lb-ft of torque, and some bodywork changes to help separate it from the rest of the line-up. audi are claiming performance figures of 0-62 mph in 3.4 seconds, 0-124 mph in 10.1 seconds and a top speed of 199 mph.
-
-
-engine: 5.2l v10
-weight: 1,570 kg / 3,461 lbs
-power: 456 kw / 611 hp / 620 ps
-0-62 mph: 3.4 seconds
-torque: 565 nm / 417 lb-ft
-top speed: 320 kph / 199 mph

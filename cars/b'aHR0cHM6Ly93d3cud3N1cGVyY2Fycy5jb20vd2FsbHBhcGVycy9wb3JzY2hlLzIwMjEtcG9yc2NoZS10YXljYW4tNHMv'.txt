@@ -1,1 +1,12 @@
 
+taycan 4s is the mid-range offering in porsche’s electric sedan line-up, delivery strong performance and range with a lower price tag. whilst the taycan launched with the top performance spec turbo and turbo s guises, the 4s represents a slightly de-tuned version, but manages to still be fast and exciting.
+the powertrain layout is the same as the turbo models with an electric motor located in each axle for all-wheel-drive, only in the 4s, those motors are a little smaller and less powerful. the combined power output comes in at 435 hp with 479 lb-ft of torque, with the ability to overboost to 522 hp or 563 hp if the optional performance battery plus is fitted.
+the smaller motors allow the taycan 4s a greater range, which has risen from the turbos 256 miles to 287 miles on the wlpt cycle. the downside is the acceleration performance has decreased with 0-62 mph down from 2.8 seconds to 4 seconds flat. that places the taycan 4s as a fast enough car for most, especially on the road, but it will get left behind in the drag race videos everybody loves to put on youtube.
+
+
+motor: 2x electric @ 93.4 kwh
+weight: 2,140 kg / 4,718 lbs
+power: 324 kw / 435 hp / 441 ps
+0-62 mph: 4.0 seconds
+torque: 650 nm / 479 lb-ft
+top speed: 250 kph / 155 mph

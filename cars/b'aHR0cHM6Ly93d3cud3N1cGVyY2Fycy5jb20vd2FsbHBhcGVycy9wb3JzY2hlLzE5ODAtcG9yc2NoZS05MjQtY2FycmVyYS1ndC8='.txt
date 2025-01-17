@@ -1,12 +1,1 @@
 
-based upon the porsche 924 turbo, the homologation special 924 carrera gt was both wider with lighter weight, and had higher turbo pressure and engine compression. power from the turbocharged inline 4 engine was increased to 210 hp, with peak torque coming in at 207 lb-ft. this was good for acceleration from 0-100 kph in around 6 seconds, and onwards to a top speed nearing 240 kph.
-406 examples were slated to be built, all coming in either black, red or silver. porsche had no problems moving the 924 carrera gt with buyer demand very strong, as the car was marketed as a real road racer with race car origins.
-the proper race cars were named the 924 carrera gtp, as they were forced to race in the gtp class at le mans in 1980. this was because the production had yet to start on the gt road car, and the gtp was was not yet homologated. this meant it faced off against rivals built from the ground up as race cars. the result was a very poor qualifying, as the larger engined opponents ran riot. during the race, the wet conditions favoured the 924’s handling, which saw all three cars progress up the leader board. the end result was a sixth place in class finish for the leading 924.
-
-
-engine: 2.0l inline 4 turbo
-weight: 1,180 kg / 2,602 lbs
-power: 157 kw / 210 hp / 213 ps
-0-62 mph: 6.0 seconds
-torque: 280 nm / 207 lb-ft
-top speed: 240 kph / 149 mph

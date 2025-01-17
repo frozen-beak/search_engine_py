@@ -1,11 +1,1 @@
 
-audi has revealed a new customer racing version of the r8, this time specced out to compete in the newly re-instated gt2 racing series. audi’s r8 lms versions have seen plenty of success in both gt3 and gt4 racing. now they have set their sights on supplying the gt2 competition, and go head to head with the likes of the porsche 911 gt2 rs clubsport.
-with the gt3 series concentrating more and more on aero, gt2 has been brought back to reduce the reliance on downforce and allow more power to help make up the difference. this means the r8 lms gt2 has become the most powerful audi customer racing car to date. the naturally aspirated 5.2l v10 is rated at 640 ps (470 kw) of power and should have over 405 lb-ft (550 nm) of torque. the dry weight of the car is set to be 1,350 kilograms which is 100 kg lighter than the gt4 version.
-
-
-engine: 5.2l v10
-weight: 1,350 kg / 2,976 lbs
-power: 470 kw / 631 hp / 640 ps
-0-62 mph: –
-torque: 550+ nm / 405+ lb-ft
-top speed: –

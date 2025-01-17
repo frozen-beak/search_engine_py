@@ -1,13 +1,1 @@
 
-wide add-on parts, a powerful rear wing and a power output of 441 kw / 600 hp – the audi tt clubsport turbo impresses with its power and design. audi will be showing its technology concept car on the 2015 wörthersee tour in the austrian town of reifnitz. the inspiration for the show car came from the successful audi 90 imsa gto of the late 1980s. a new technology is making its debut under the hood. the car’s electric biturbo adds even more dynamism to the driving experience with its spontaneous response.
-the audi tt clubsport turbo has a power-boosted 2.5 tfsi engine with very impressive performance data. from 2,480 cc of displacement, the five-cylinder engine produces 441 kw / 600 hp of power and 650 nm / 479.4 lb-ft of torque, the latter from 3,000 to 7,000 rpm. this means that it produces 176 kw / 240 hp and 260 nm / 191.8 lb-ft per liter of displacement. power is transferred via a manual six-speed transmission.
-thanks to systematic lightweight design, the tt clubsport turbo show car has an unladen weight of just 1,396 kg / 3,077.7 lb. the car completes the standard sprint from 0 to 100 km/h (62.1 mph) in 3.6 seconds, and its top speed is 310 km/h (192.6 mph). the tt clubsport turbo plays out its big advantage over the first few meters of a sprint. its electrically driven compressor lets it cover up to 16 meters (52.5 ft) within the first 2.5 seconds – which is six meters (19.7 ft) further than a comparable car without this innovation. that is a difference of around one and one-half car lengths.
-source: audi press release
-
-
-engine: 2.5l inline 5 turbo
-weight: 1,396 kg / 3,077 lbs
-power: 441 kw / 591 hp / 600 ps
-0-62 mph: 3.6 seconds
-torque: 650 nm / 479 lb-ft
-top speed: 310 kph / 192 mph

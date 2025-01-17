@@ -1,1 +1,10 @@
 
+porsche’s 718 spyder gets a power boost thanks to the 4.0l flat 6 engine from the cayman gt4 rs. with a redline of 9,000 rpm, peak power output of 493 hp and peak torque figure of 332 lb-ft, the 718 spyder is the new range-topping mid-engined drop-top in porsche’s line-up. the 0-62 mph sprint is dispatched in 3.4 seconds, the same time it takes the gt4 rs and will hit 191 mph for its top speed, which is 5 mph more than the standard 718 spyder.
+
+
+engine: 4.0l flat 6
+weight: 1,410 kg / 3,108 lbs
+power: 368 kw / 493 hp / 500 ps
+0-62 mph: 3.4 seconds
+torque: 450 nm / 332 lb-ft
+top speed: 307 kph / 191 mph

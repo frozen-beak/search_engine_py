@@ -1,10 +1,1 @@
 
-showcasing tech that will make it into future audi’s, the grandsphere concept is billed as a private jet for the road. following hot on the heels of the audi skysphere concept is this four door electric sedan with level 4 autonomy capabilities, that can conceal its steering wheel and pedals and do the work itself. 
-
-
-motor: 2x electric @ 120 kwh
-weight: –
-power: 530 kw / 711 hp / 720 ps
-0-62 mph: 4.0 seconds
-torque: 960 nm / 708 lb-ft
-top speed: –

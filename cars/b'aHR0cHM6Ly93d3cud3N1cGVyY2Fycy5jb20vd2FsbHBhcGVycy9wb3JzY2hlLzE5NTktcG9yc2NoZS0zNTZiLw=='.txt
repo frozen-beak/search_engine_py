@@ -1,12 +1,1 @@
 
-the 356 was built in four distinct series, the original (“pre-a”), followed by the 356 a, 356 b, and finally the 356 c. to distinguish among the major revisions of the model, 356s are generally classified into a few major groups. the 356 coupés and “cabriolets” (soft-tops) built through 1955 are readily identifiable by their split (1948 to 1952) or bent (centre-creased, 1953 to 1955) windscreens. in late 1955 the 356 a appeared, with a curved windshield. the a was the first road going porsche to offer the carrera four-cam engine as an option. in late 1959 the t5 356 b appeared; followed by the redesigned t6 series 356 b in 1962. the final version was the 356 c, little changed from the late t6 b cars but disc brakes replaced the drums.
-in late 1959 significant styling and technical refinements gave rise to the 356 b (a t5 body type). the mid-1962 356 b model was changed to the t6 body type (twin engine lid grilles, an external fuel filler in the right front wing/fender and a larger rear window in the coupé). the porsche factory did not call attention to these quite visible changes with a different model designation. however, when the t6 got disc brakes, with no other visible alterations, they called it the model c, or the sc when it had the optional extra powerful engine. a unique “karmann hardtop” or “notchback” 356 b model was produced in 1961 and 1962. the 1961 production run (t5) was essentially a cabriolet body with the optional steel cabriolet hardtop welded in place. the 1962 line (t6 production) was a very different design in that the new t6 notchback coupé body did not start life as a cabriolet, but with its own production design—in essence, part cabriolet rear end design, part t6 coupé windshield frame, unique hard top. both years of these unique cars have taken the name “karmann notchback”.
-source: wikipedia (original)
-
-
-engine: 1.6l flat 4
-weight: 920 kg / 2,028 lbs
-power: 67 kw / 90 hp / 91 ps
-0-62 mph: 12.5 seconds
-torque: 123 nm / 91 lb-ft
-top speed: 187 kph / 116 mph

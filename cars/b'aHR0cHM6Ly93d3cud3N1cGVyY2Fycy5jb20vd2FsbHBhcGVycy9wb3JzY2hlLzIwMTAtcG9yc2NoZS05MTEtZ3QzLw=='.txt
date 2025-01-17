@@ -1,13 +1,1 @@
 
-porsche is adding yet another new model to the second generation of the 911 model series: the new gt3 even more powerful, faster, and refined than its predecessor. in developing the most sporting and dynamic road-going 911 with a normal-aspiration power unit, porsche has applied a wide range of know-how gained in motorsport. indeed, this is precisely why the new gt3 is truly impressive not only on the road, but also on the race track.
-the 911 gt3 offers an even higher standard above all in two key areas: performance and driving dynamics. now the proven six-cylinder naturally-aspirated power unit develops maximum output of 435 bhp (320 kw), up 20 bhp over its predecessor. this results first and foremost from an increase in engine capacity by 200 cc to 3.8 litres and from the improved gas cycle: now not only the intake, but for the first time also the exhaust camshafts are adjusted by variocam.
-a further important point is that, through its upgraded power and performance, the boxer engine also offers a significant increase in torque at medium engine speeds, a benefit of particular significance in everyday motoring. clearly, this also means a further improvement in performance, the new gt3 accelerating from a standstill to 100 km/h in 4.1 seconds and reaching 160 km/h in 8.2 seconds. top speed is 312 km/h or 194 mph.
-source: porsche press release
-
-
-engine: 3.8l flat 6
-weight: 1,396 kg / 3,077 lbs
-power: 324 kw / 434 hp / 440 ps
-0-62 mph: 4.1 seconds
-torque: 430 nm / 317 lb-ft
-top speed: 312 kph / 194 mph

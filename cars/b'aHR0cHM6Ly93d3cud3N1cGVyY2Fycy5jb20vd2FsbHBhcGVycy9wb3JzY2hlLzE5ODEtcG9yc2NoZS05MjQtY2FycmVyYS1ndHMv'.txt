@@ -1,11 +1,1 @@
 
-when porsche decided to go racing with the 924, they began the process of homologation with the 924 carrera gt and later the gts. the gts was produced in need of racing in the gtp spec class. after all 406 examples of the 924 carrera gt were produced, porsche was free to make a more extreme homologation special for the gtp race. so the gts was born, with extra power in the form of increased turbo boost upping the peak output to 245 hp, an improvement of 35 hp over the 210 hp gt. the car was lighter too, with the nose of the car undergoing changes to make it look more like a gtp car of the time.
-only fifty cars needed to be built for the road, with some offered a ‘club sport’ package that upped the power even more to 275 hp. later the porsche 924 would race with the 375 hp gtr, a car built from all the lessons learnt from the gt and gts. the gtr however failed to impress, with disappointing results at le mans and in north america. the 924 would finally be replaced for racing duties by the porsche 944 after 1982.
-
-
-engine: 2.0l inline 4 turbo
-weight: 1,120 kg / 2,469 lbs
-power: 183 kw / 245 hp / 249 ps
-0-62 mph: –
-torque: 335 nm / 247 lb-ft
-top speed: 250 kph / 155 mph

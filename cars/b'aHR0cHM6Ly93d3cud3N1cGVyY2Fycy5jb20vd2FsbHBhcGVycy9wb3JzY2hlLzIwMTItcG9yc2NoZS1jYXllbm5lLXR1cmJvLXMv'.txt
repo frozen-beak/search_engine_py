@@ -1,12 +1,1 @@
 
-the new cayenne turbo s assumes top position in the porsche suv model range with its engine power of 550 hp (405 kw). with its complex active chassis, the top athlete in suv clothing surpasses the driving performance of many sports cars. all of the basic cayenne properties such as versatile offroad capabilities, high ride comfort and superior towing power have been preserved without exception. its nedc fuel consumption of 11.5 litres per 100 km is the same as that of the cayenne turbo, which makes it more fuel-efficient in relation to its engine power. the new turbo s model has an extra 50 hp of power compared to the cayenne turbo, as well as a torque boosted from 700 nm to 750 newton metres, and it converts them into faster acceleration and a higher top speed. the sprint from zero to 100 km/h takes just 4.5 seconds (-0.2 seconds), and the suv accelerates to a top speed of 283 km/h (+ 5 km/h).
-the cayenne turbo s was systematically configured for maximum dynamic performance. therefore, it incorporates all relevant control systems as standard equipment. from the cayenne turbo it takes the combination of an air suspension and active pasm damping control. then there is porsche dynamic chassis control (pdcc), which reduces the roll angle in curves to practically zero, improving agility and comfort equally. porsche torque vectoring plus (ptv plus), which is also standard, operates with torque vectoring at the rear wheels together with an electronically controlled rear differential lock, which improves traction and therefore offers more agility in every driving situation. the new cayenne turbo s is also equipped with the sport chrono package as standard.
-source: porsche press release
-
-
-engine: 4.5l v8 twin turbo
-weight: 3,080 kg / 6,790 lbs
-power: 405 kw / 543 hp / 550 ps
-0-62 mph: 4.5 seconds
-torque: 750 nm / 553 lb-ft
-top speed: 283 kph / 176 mph

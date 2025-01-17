@@ -1,11 +1,1 @@
 
-audi have a big car with big wheels, to show their autonomous aicon concept, it’s fully electric and it’s huge. coming in just shy of 18 feet long, the aicon concept is significantly larger than the audis flagship a8 luxury sedan. it even comes equipped with 26-inch wheels, that don’t look weird at all, as due to the size of the car the wheels are proportional. with a 2+2 seat layout and portal-like doors that open with no b-pillar, the aicon is a luxury place to sit and watch the world go by, as the car dutifully drives itself.
-powered by 4 electric motors for a combined total output of 260 kw and 550 nm of torque, the aicon has plenty of power to do what it needs to do, but is clearly not a performance car. range is expected to top 500 miles, with the use of what must be a really big battery pack. weight is unknown, though with the size of the car and battery, expect a hefty penalty on the scales.
-
-
-motor: 4x electric
-weight: –
-power: 260 kw / 349 hp / 354 ps
-0-62 mph: –
-torque: 550 nm / 405 lb-ft
-top speed: –

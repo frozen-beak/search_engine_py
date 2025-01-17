@@ -1,12 +1,1 @@
 
-new generation audi rs3 comes in both sedan and sportback flavours set to rival the mercedes-amg a45 s. this new generation rs3 continues to use a front-biased all-wheel drive system that is capable sending a maximum 50% of torque to the rear wheels. new to the system is a torque-vectoring rear diff that when dynamic mode is selected, can send all of it’s available torque to the outside wheel.
-on the styling front, this new rs3 takes a more brash approach, shying away from the subtle aesthetics of the previous incarnations. it is now wider with bigger flared wheel arches presenting a broad and muscular look. 
-peak power has remained the same with 394 hp, but total torque has risen by 15 lb-ft to a new total of 369 lb-ft developed between 2,250 and 5,600 rpm. the acceleration clocks in slightly faster than the a45 s, with a 0.1 seconds faster time of 3.8 seconds.
-
-
-engine: 2.5l inline 5 turbo
-weight: –
-power: 294 kw / 394 hp / 400 ps
-0-62 mph: 3.8 seconds
-torque: 500 nm / 369 lb-ft
-top speed: 280 kph / 174 mph

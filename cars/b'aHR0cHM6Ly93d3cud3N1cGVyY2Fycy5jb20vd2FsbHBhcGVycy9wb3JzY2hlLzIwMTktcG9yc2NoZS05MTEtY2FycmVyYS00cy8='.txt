@@ -1,12 +1,1 @@
 
-the arrival of an all new 911 marks an important milestone for porsche, this one being the eight generation is known as the 992 and replaces the hugely successful 991. the iconic porsche 911 is entering it’s 55th year in production and the new model will only offer a single body size for the first time since the 997 generation. the body selected is the wider shell that was once only used for the carrera s and gts models in the 911 family.
-the bigger body porsche 911 results in a longer wheelbase and wider nose, with the front track and body widened around 45mm. this new found size could have significant impact on the cars handling characteristics and feel, something 911 are well known for. the 992 generation 911 could prove to be an important moment for the sports car, whether good or bad.
-porsche has retained the turbocharged engines for the carrera models, with some enhancements and tweaks upping the power by 30 ps (22 kw). the resulting peak power output is rated at 450 ps (331 kw), with 406 lb-ft (550 nm) of torque. porsche claims a 0-100 kph sprint time of 3.6 seconds for the all-wheel drive carrera 4s and 3.7 seconds for the rear-wheel drive carrera s. the pdk transmission has been replaced with an all new 8-speed unit, one designed to fit an electric motor into for any future hybrid 911. although porsche says any such hybrid is a long way off, with a time line around 2028 possible.
-
-
-engine: 3.0l flat 6 turbo
-weight: 1,600 kg / 3,527 lbs
-power: 331 kw / 444 hp / 450 ps
-0-62 mph: 3.6 seconds
-torque: 550 nm / 406 lb-ft
-top speed: 306 kph / 190 mph

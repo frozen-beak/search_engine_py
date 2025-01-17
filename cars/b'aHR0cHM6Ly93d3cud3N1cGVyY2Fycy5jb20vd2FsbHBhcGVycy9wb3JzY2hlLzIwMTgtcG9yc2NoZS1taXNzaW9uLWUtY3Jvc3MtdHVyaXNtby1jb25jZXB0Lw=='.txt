@@ -1,11 +1,1 @@
 
-labeled as a cross utility vehicle, the porsche mission e cross turismo concept is an all-electric design study based off the 2015 mission e concept. 2 permanent magnet synchronous motors drive an axle each and combine to generate 600 horsepower. the key to this power is a 800 volt electrical system that has a claimed 250 mile range, and can be fully recharged in just 15 minutes with a fast charger. all this power results in acceleration times of under 3.5 seconds from 0-62 mph and onwards to 104 mph in 12 seconds.
-“the mission e cross turismo is an expression of how we envision the all-electric future. it combines sportiness and everyday practicality in unique style. our vehicle will be fast to drive, but also quick to recharge and able to replicate its performance time after time,” says oliver blume, ceo of porsche ag.
-
-
-motor: 2x electric
-weight: –
-power: 440 kw / 590 hp / 598 ps
-0-62 mph: under 3.5 seconds
-torque: –
-top speed: –

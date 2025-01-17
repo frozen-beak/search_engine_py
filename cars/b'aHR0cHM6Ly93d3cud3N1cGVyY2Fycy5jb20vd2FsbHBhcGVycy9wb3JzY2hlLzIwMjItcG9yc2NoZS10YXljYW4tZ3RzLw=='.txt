@@ -1,1 +1,10 @@
 
+the porsche taycan gts adds another bodystyle to the line-up with the sport turismo joining the sedan and cross turismo. the difference between the cross turismo and sport turismo is minor, with both sharing the same body as the sport does away with the wheel arch cladding of the cross. the ride height of the sport also matches the regular sedan taycan, leaving the cross as the higher riding variant in the range.
+
+
+motor: 2x electric @ 92.3 kwh
+weight: –
+power: 440 kw / 590 hp / 598 ps
+0-62 mph: 3.7 seconds
+torque: –
+top speed: 250 kph / 155 mph

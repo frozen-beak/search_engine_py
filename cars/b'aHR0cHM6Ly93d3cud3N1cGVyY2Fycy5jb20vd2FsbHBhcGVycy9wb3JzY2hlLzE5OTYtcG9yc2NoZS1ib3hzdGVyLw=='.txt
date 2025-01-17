@@ -1,13 +1,1 @@
 
-grant larson’s design, inspired by the 356 cabriolet, speedster, and 550 spyder, stimulated a commercial turnaround for porsche. through consultation with toyota, porsche began widely sharing parts among models and slashed costs. many believe the introduction of the boxster helped save porsche from acquisition.
-the boxster was released ahead of its big brother, the 996 generation of the 911. the 986 boxster had the same bonnet, front wings, headlights, interior and engine architecture as the 996.
-all 986 and 987 boxsters use the m96, a water-cooled, horizontally opposed (“flat”), six-cylinder engine. it was porsche’s first water-cooled non-front engine. in the boxster, it is placed mid-engine, while in the 911, rear-engine. the mid-engine layout provides a low center of gravity, near-perfect weight distribution, and neutral handling. early engines had a small number of failures, due to cracked or slipped cylinder liners, which were resolved by a minor redesign in 1999.
-source: wikipedia (original)
-
-
-engine: 2.5l flat 6
-weight: 1,252 kg / 2,760 lbs
-power: 150 kw / 201 hp / 204 ps
-0-62 mph: 6.9 seconds
-torque: 245 nm / 181 lb-ft
-top speed: 240 kph / 149 mph

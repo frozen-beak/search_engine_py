@@ -1,12 +1,1 @@
 
-just a few months after the launch of the new a3 sedan model series, audi will introduce the top model – the s3 sedan. the 2.0 tfsi produces 221 kw / 300 hp and 380 nm / 280.27 lb ft of torque. its high-performance four-cylinder engine combines highly advanced efficiency technologies – dual fuel injection, exhaust manifold integrated in the cylinder head, the audi valvelift system and a rotary valve module for thermal management.
-this version of the audi s3 sedan, paired with the s tronic, accelerates from 0 to 100 km/h (62.14 mph) in 4.9 seconds; with the manual transmission it takes 5.3 seconds. the car’s top speed is electronically limited to 250 km/h (155.34 mph). the four-cylinder turbo has a combined fuel consumption of just 6.9 liters per 100 km (34.09 us mpg) or 7.0 liters (33.60 us mpg) (with s tronic or manual transmission), respectively – for a co2 equivalent of 159 or 162 grams per km (255.89 or 260.71 g/mile). a fast-operating multi-plate clutch in the quattro drivetrain distributes forces to the front and rear axles (provisional data).
-source: audi press release
-
-
-engine: 2.0l inline 4 turbo
-weight: –
-power: 221 kw / 296 hp / 300 ps
-0-62 mph: 4.9 seconds
-torque: 380 nm / 280 lb-ft
-top speed: 250 kph / 155 mph

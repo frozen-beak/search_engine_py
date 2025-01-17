@@ -1,11 +1,1 @@
 
-the 2020 cayman gts 4.0 offers a similar package to the top of the line gt4 at a lower price with a few compromises. those compromises are found in the slightly less power and not quite all the performance and handling parts that the gt4 enjoys. the end result though should be a cayman that hits the right spots and appeals to a broader spectrum of buyers.
-the 4.0l 6 cylinder engine is a naturally aspirated unit that has some ecu tweaks to tone down the power by around 20 horsepower from the gt4’s version. performance still remains strong though, with the 0-62 mph sprint dispatched in 4.5 seconds and the top speed still a healthy 182 mph.
-
-
-engine: 4.0l flat 6
-weight: 1,480 kg / 3,263 lbs
-power: 294 kw / 394 hp / 400 ps
-0-62 mph: 4.5 seconds
-torque: 400 nm / 295 lb-ft
-top speed: 293 kph / 182 mph

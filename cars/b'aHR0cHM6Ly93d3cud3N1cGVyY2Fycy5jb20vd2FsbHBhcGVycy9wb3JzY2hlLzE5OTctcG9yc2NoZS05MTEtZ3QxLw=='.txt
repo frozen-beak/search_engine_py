@@ -1,13 +1,1 @@
 
-the porsche 911 gt1 was a car designed for competition in the gt1 class of sportscar racing, which also required a street legal version for homologation purposes. the limited-production street-legal version was labeled the 911 gt1 straßenversion (street version).
-with the revival of international sportscar racing in the mid-1990s, though the bpr global gt series (which then morphed in to the fia gt championship) porsche expressed interest in returning to top level sportscar racing and went about developing its competitor for the gt1 category. cars in this category were previously heavily modified versions of road cars, usually supercars such as the mclaren f1 and ferrari f40, but when the 911 gt1 was uneveiled in 1996 porsche had exploited the rule book to the full and stunned the sportscar fraternity. rather than develop a race version of one of their road going models, what they created was effectively a purpose built sports-prototype, but in order to comply with regulations a street legal version was created, 911 gt1 straßenversion – literally a road-going racing car.
-in spite of its 911 moniker the car actually had very little in common with the 911 of the time, however its frontal chassis was shared with the then (993) 911, while the rear of the car was derived from the porsche 962, including its water-cooled, twin-turbocharged and intercooled, four valve per cylinder flat-six engine which was arranged in a mid-mounted position, compared to the rear-engined layout of a conventional 911. the engine was making about 600 ps (441 kw; 592 hp). in comparison, the 993 generation 911 gt2, which was otherwise the company’s highest-performance vehicle, used an air-cooled engine with only two valves per cylinder.
-source: wikipedia (original)
-
-
-engine: 3.2l flat 6 twin turbo
-weight: 1,200 kg / 2,645 lbs
-power: 441 kw / 592 hp / 600 ps
-0-62 mph: 3.7 seconds
-torque: 600 nm / 442 lb-ft
-top speed: 280 kph / 174 mph

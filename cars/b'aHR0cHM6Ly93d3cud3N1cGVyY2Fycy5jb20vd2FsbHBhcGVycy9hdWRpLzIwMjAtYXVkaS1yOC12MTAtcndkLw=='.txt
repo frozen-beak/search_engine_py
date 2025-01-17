@@ -1,11 +1,1 @@
 
-audi r8 gets a new entry-level model which ditches the all-wheel drive and opts for the simpler and lighter rear-wheel drive setup. in 2018 audi released the r8 rws model that was also rear-wheel drive, the key difference here is that he rwd r8 will be a series production model and not a limited edition. like the r8 v10 quattro and v10 performance models, the rwd will be sold in both coupe and convertible spyder forms.
-power from the 5.2l v10 sits at 533 hp which is 39 and 79 horsepower lower than the current quattro and performance r8’s, but is available 1,500 rpm lower in the rev range. torque is down by about 30 lb-ft which should offset by a lower kerb weight of just 1,595 kg. the reduction of drivetrain components has helped in this regard, which should go some way to decreasing the performance gap to the higher spec models. perhaps the biggest area of performance to be affected is the 0-62 mph acceleration time, which is now 0.6 seconds slower thanks in large part to the absence of the quattro all-wheel drive.
-
-
-engine: 5.2l v10
-weight: 1,595 kg / 3,516 lbs
-power: 397 kw / 533 hp / 540 ps
-0-62 mph: 3.7 seconds
-torque: 540 nm / 398 lb-ft
-top speed: 320 kph  / 199 mph

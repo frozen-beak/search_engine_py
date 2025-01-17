@@ -1,12 +1,1 @@
 
-after skipping the b6 generation with out any rs4 model, audi returned to the high performance version of it’s a4 in 2005 with the b7 platform. for the first time the rs4 was available in sedan, avant and cabriolet variants, providing options never previously seen for audi performance cars.
-differences to the s4 include flared front and rear wheel arches to allow for a wider front and rear track and bigger tyres. bigger front air intakes to feed the two extra side mounted radiators were also fitted. construction consists of a fully galvanised steel monocoque design, with use of lightweight aluminium in the front fenders and hood.
-the engine used was based off the all-alloy 4.2 v8 found in the b6 s4, and shared many parts with the v8 from the audi q7. a new cylinder block construction was used to create a high-revving variant capable of a 8,250 rpm limit. the engine was fitted with quad cams, 32 valves, increased crankcase breathing, a low-pressure fuel return system and a baffled oil sump.
-
-
-engine: 4.2l v8
-weight: 1,650 kg / 3,638 lbs
-power: 309 kw / 414 hp / 420 ps
-0-62 mph: 4.7 seconds
-torque: 430 nm / 317 lb-ft
-top speed: 299 kph / 186 mph

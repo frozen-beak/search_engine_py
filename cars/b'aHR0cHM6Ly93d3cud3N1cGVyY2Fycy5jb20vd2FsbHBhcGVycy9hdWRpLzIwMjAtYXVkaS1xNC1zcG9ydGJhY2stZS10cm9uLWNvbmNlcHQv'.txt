@@ -1,11 +1,1 @@
 
-audi’s push into electric cars continues with the q4 sportback e-tron concept, a preview of the production version coming in 2021. the e-tron family has quickly grown over recent years with plenty of concept models amongst them, with this one already confirmed as a production model set to be more of a volume seller than the original larger e-tron suv.
-the battery pack in the q4 sportback e-tron is 82 kwh in capacity sitting between the wheels in the floor like most cars designed to be an ev from the outset. two electric motors positioned on each axel will work in tandem to deliver 306 ps (225 kw) of power and 228 lb-ft (309 nm) of torque, the all-wheel drive system will help accelerate the q4 e-tron from 0-62 mph in 6.3 seconds.
-
-
-motor: 2x electric @ 82 kwh
-weight: –
-power: 225 kw / 302 hp / 306 ps
-0-62 mph: 6.3 seconds
-torque: 309 nm / 228 lb-ft
-top speed: 180 kph / 112 mph

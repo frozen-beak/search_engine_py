@@ -1,1 +1,12 @@
 
+the porsche taycan has arrived, the brands first fully electric car that produces 750 horsepower and looks as good as the mission e concept it’s based from. the taycan family is set to be expanded over the next few years, with porsche launching the car with 2 high-spec variants first. called the taycan turbo and turbo s, the naming is meant to align the models with the rest if the porsche fleet despite no turbochargers present on the taycan.
+this is an all-wheel drive fully electric powered sports car that utilises two electric motors that combine for a peak power output of 761 ps (560 kw) and 774 lb-ft (1,049 nm) of torque in overboost mode. outisde of the overboost mode, the taycan makes do the 625 ps (459 kw). when launch control is active, the taycan will accelerate from 0-62 mph in 2.8 seconds, 0-100 mph in 6.3 seconds an onwards to a limited top speed of 162 mph. porsche has fitted a 93.4 kwh bespoke lithium battery pack that is located under the floor, helping achieve a wltp range of up to 450 kilometres for the turbo, and 412 for the turbo s.
+all that battery comes at the cost of extra weight with the taycan having to deal with over 5,000 lbs of mass, that’s around 660 lbs more than the larger panamera turbo. the entire electric system runs at 800 volts instead of the usual 400 volts for ev’s. porsche claims recharging can achieve up to 270 kw, with 80 percent charge done in as little as 22.5 minutes under ideal conditions.
+
+
+motor: 2x electric @ 93.4 kwh
+weight: 2,295 kg / 5,060 lbs
+power: 560 kw / 751 hp / 761 ps
+0-60 mph: 2.4 seconds
+torque: 1,049 nm / 774 lb-ft
+top speed: 260 kph / 162 mph
