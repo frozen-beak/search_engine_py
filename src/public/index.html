@@ -5,119 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TurboZ</title>
     <link rel="icon" href="logo.png" type="image/x-icon" />
-
-    <script>
-      let isSearching = false;
-
-      const search = () => {
-        const query = document.getElementById("search-input").value.trim();
-
-        // Don't search if the input is empty
-        if (!query) return;
-
-        // debounce if already searching
-        if (isSearching) return;
-
-        // do not allow new searches
-        isSearching = true;
-
-        // Clear existing results
-        clearResults();
-
-        // show loading div
-        showLoader();
-
-        fetch(`/api/?query=${encodeURIComponent(query)}`)
-          .then((res) => res.json())
-          .then((results) => {
-            // clear loading div
-            deleteLoader();
-
-            // Render new results
-            renderResults(results);
-
-            // allow for new search
-            isSearching = false;
-          })
-          .catch((error) => {
-            console.error("Error fetching results:", error);
-          });
-      };
-
-      // delete all the rendered results
-      const clearResults = () => {
-        const results = document.querySelectorAll(".result");
-
-        results?.forEach((result) => {
-          result.remove();
-        });
-      };
-
-      const showLoader = () => {
-        const body = document.getElementById("body");
-
-        for (let i = 0; i < 3; i++) {
-          const loader = document.createElement("div");
-          loader.className = "loader radius3";
-
-          // append the loader in the [body]
-          body.appendChild(loader);
-        }
-      };
-
-      const deleteLoader = () => {
-        const loaders = document.querySelectorAll(".loader");
-
-        loaders?.forEach((loader) => {
-          loader.remove();
-        });
-      };
-
-      const renderResults = (results) => {
-        const body = document.getElementById("body");
-
-        results.forEach((result) => {
-          const resultDiv = document.createElement("div");
-          resultDiv.className = "result radius3";
-
-          const title = document.createElement("a");
-          title.href = result.link;
-          title.className = "body1";
-          title.textContent = result.name;
-
-          const description = document.createElement("p");
-          description.className = "text1 desc";
-          description.textContent = result.desc;
-
-          const specs = document.createElement("div");
-          specs.className = "specs text2";
-
-          const engine = document.createElement("p");
-          engine.textContent = `engine: ${result.engine}`;
-
-          const weight = document.createElement("p");
-          weight.textContent = `weight: ${result.weight}`;
-
-          const power = document.createElement("p");
-          power.textContent = `power: ${result.power}`;
-
-          const zeroToSixty = document.createElement("p");
-          zeroToSixty.textContent = `0-62 mph: ${result.zero_to_sixty || "–"}`;
-
-          const torque = document.createElement("p");
-          torque.textContent = `torque: ${result.torque}`;
-
-          const topSpeed = document.createElement("p");
-          topSpeed.textContent = `top speed: ${result.top_speed || "–"}`;
-
-          specs.append(engine, weight, power, zeroToSixty, torque, topSpeed);
-          resultDiv.append(title, description, specs);
-
-          // append the result in the [body]
-          body.appendChild(resultDiv);
-        });
-      };
-    </script>
   </head>
   <body id="body">
     <header>
@@ -496,4 +383,126 @@
       background: var(--c-bg);
     }
   </style>
+
+  <script>
+    let isSearching = false;
+
+    const search = () => {
+      const query = document.getElementById("search-input").value.trim();
+
+      // Don't search if the input is empty
+      if (!query) return;
+
+      // debounce if already searching
+      if (isSearching) return;
+
+      // do not allow new searches
+      isSearching = true;
+
+      // Clear existing results
+      clearResults();
+
+      // show loading div
+      showLoader();
+
+      fetch(`/api/?query=${encodeURIComponent(query)}`)
+        .then((res) => res.json())
+        .then((results) => {
+          // clear loading div
+          deleteLoader();
+
+          // Render new results
+          renderResults(results);
+
+          // allow for new search
+          isSearching = false;
+        })
+        .catch((error) => {
+          console.error("Error fetching results:", error);
+        });
+    };
+
+    // delete all the rendered results
+    const clearResults = () => {
+      const results = document.querySelectorAll(".result");
+
+      results?.forEach((result) => {
+        result.remove();
+      });
+    };
+
+    const showLoader = () => {
+      const body = document.getElementById("body");
+
+      for (let i = 0; i < 3; i++) {
+        const loader = document.createElement("div");
+        loader.className = "loader radius3";
+
+        // append the loader in the [body]
+        body.appendChild(loader);
+      }
+    };
+
+    const deleteLoader = () => {
+      const loaders = document.querySelectorAll(".loader");
+
+      loaders?.forEach((loader) => {
+        loader.remove();
+      });
+    };
+
+    const renderResults = (results) => {
+      const body = document.getElementById("body");
+
+      results.forEach((result) => {
+        const resultDiv = document.createElement("div");
+        resultDiv.className = "result radius3";
+
+        const title = document.createElement("a");
+        title.href = result.link;
+        title.className = "body1";
+        title.textContent = result.name;
+
+        const description = document.createElement("p");
+        description.className = "text1 desc";
+        description.textContent = result.desc;
+
+        const specs = document.createElement("div");
+        specs.className = "specs text2";
+
+        const engine = document.createElement("p");
+        engine.textContent = `engine: ${result.engine}`;
+
+        const weight = document.createElement("p");
+        weight.textContent = `weight: ${result.weight}`;
+
+        const power = document.createElement("p");
+        power.textContent = `power: ${result.power}`;
+
+        const zeroToSixty = document.createElement("p");
+        zeroToSixty.textContent = `0-62 mph: ${result.zero_to_sixty || "–"}`;
+
+        const torque = document.createElement("p");
+        torque.textContent = `torque: ${result.torque}`;
+
+        const topSpeed = document.createElement("p");
+        topSpeed.textContent = `top speed: ${result.top_speed || "–"}`;
+
+        specs.append(engine, weight, power, zeroToSixty, torque, topSpeed);
+        resultDiv.append(title, description, specs);
+
+        // append the result in the [body]
+        body.appendChild(resultDiv);
+      });
+    };
+
+    // Event listener for Enter key in search input
+    document
+      .getElementById("search-input")
+      .addEventListener("keypress", (e) => {
+        if (e.key === "Enter") {
+          search();
+        }
+      });
+  </script>
 </html>
