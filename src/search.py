@@ -269,12 +269,12 @@ class SearchEngine:
                 name=name,
                 link=link,
                 desc=desc,
-                engine=spec_dict.get("engine", ""),
-                weight=spec_dict.get("weight", ""),
-                power=spec_dict.get("power", ""),
-                zero_to_sixty=spec_dict.get("0-62", ""),
-                torque=spec_dict.get("torque", ""),
-                top_speed=spec_dict.get("top speed", ""),
+                engine=spec_dict.get("engine", "-"),
+                weight=spec_dict.get("weight", "-"),
+                power=spec_dict.get("power", "-"),
+                zero_to_sixty=spec_dict.get("0-62", "-"),
+                torque=spec_dict.get("torque", "-"),
+                top_speed=spec_dict.get("top speed", "-"),
                 score=score,
             )
 
