@@ -1,9 +1,10 @@
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
-from search import SearchEngine
+from .search import SearchEngine
 
 app = FastAPI()
 searchEngine = SearchEngine()
+
 
 @app.get("/api/search")
 def index(query: str):
@@ -12,4 +13,3 @@ def index(query: str):
 
 # Mount static files
 app.mount("/", StaticFiles(directory="./src/public", html=True), name="static")
-
