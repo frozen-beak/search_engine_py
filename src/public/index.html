@@ -120,6 +120,11 @@
     </script>
   </head>
   <body id="body">
+    <header>
+      <a href="https://github.com/frozen-beak/search_engine_py/" class="title1">
+        &#xe709;
+      </a>
+    </header>
     <h1 class="title1 heading">
       Turbo <img src="./logo.png" alt="ZeroTab" width="24" height="24" />
     </h1>
@@ -156,6 +161,27 @@
       padding: calc(36 * var(--base-space)) 0px;
 
       background-color: var(--c-bg);
+
+      position: relative;
+    }
+
+    header {
+      position: absolute;
+      width: 100%;
+      padding: calc(1.5 * var(--base-space)) calc(3 * var(--base-space));
+
+      top: 0;
+      left: 0;
+
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+      justify-content: flex-end;
+    }
+
+    header a {
+      text-decoration: none;
+      color: var(--c-primary);
     }
 
     .heading {
